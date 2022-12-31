@@ -1,0 +1,15 @@
+[
+  {
+    "rule_id": "R-29924",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:58:44.554220"
+  }
+]
