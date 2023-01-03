@@ -13,5 +13,10 @@
     "intent_id": "INT-90615",
     "utterance": "Recommend a vintage outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57029",
+    "utterance": "What should I wear to a streetwear event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
