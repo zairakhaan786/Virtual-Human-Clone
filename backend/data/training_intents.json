@@ -33,5 +33,10 @@
     "intent_id": "INT-69533",
     "utterance": "How to style a cardigan for Winter if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-21160",
+    "utterance": "Recommend a business outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
