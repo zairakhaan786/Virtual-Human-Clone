@@ -43,5 +43,10 @@
     "intent_id": "INT-41038",
     "utterance": "Recommend a streetwear outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-89177",
+    "utterance": "I have an mesomorph body type, do #9B59B6 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
