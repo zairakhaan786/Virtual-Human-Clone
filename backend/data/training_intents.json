@@ -63,5 +63,10 @@
     "intent_id": "INT-17834",
     "utterance": "Recommend a athleisure outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-8800",
+    "utterance": "I have an inverted_triangle body type, do #F1C40F cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
