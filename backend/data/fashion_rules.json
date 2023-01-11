@@ -102,5 +102,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:58:45.379698"
+  },
+  {
+    "rule_id": "R-66175",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:45.489693"
   }
 ]
