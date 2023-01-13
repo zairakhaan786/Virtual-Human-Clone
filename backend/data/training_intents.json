@@ -73,5 +73,10 @@
     "intent_id": "INT-85435",
     "utterance": "I have an apple body type, do #F1C40F silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-7222",
+    "utterance": "What should I wear to a athleisure event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
