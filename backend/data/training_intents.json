@@ -83,5 +83,10 @@
     "intent_id": "INT-62326",
     "utterance": "Is #FF5733 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-54395",
+    "utterance": "Recommend a athleisure outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
