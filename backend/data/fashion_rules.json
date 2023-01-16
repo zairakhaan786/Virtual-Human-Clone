@@ -115,5 +115,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:45.489693"
+  },
+  {
+    "rule_id": "R-72550",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:58:45.743071"
   }
 ]
