@@ -128,5 +128,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T00:58:45.743071"
+  },
+  {
+    "rule_id": "R-33980",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:58:45.778799"
   }
 ]
