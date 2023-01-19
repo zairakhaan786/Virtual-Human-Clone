@@ -141,5 +141,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:58:45.778799"
+  },
+  {
+    "rule_id": "R-9420",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T00:58:45.814027"
   }
 ]
