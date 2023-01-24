@@ -219,5 +219,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:58:46.101145"
+  },
+  {
+    "rule_id": "R-15371",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.66,
+    "timestamp": "2026-03-26T00:58:46.136807"
   }
 ]
