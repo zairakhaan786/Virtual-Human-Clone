@@ -323,5 +323,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:58:46.491596"
+  },
+  {
+    "rule_id": "R-65230",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:46.526773"
   }
 ]
