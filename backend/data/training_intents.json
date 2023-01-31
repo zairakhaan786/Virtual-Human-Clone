@@ -123,5 +123,10 @@
     "intent_id": "INT-77609",
     "utterance": "Is #3498DB too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-76421",
+    "utterance": "How to style a chinos for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
