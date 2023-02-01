@@ -336,5 +336,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:46.526773"
+  },
+  {
+    "rule_id": "R-90951",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:58:46.681960"
   }
 ]
