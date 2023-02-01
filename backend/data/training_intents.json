@@ -128,5 +128,10 @@
     "intent_id": "INT-76421",
     "utterance": "How to style a chinos for Summer if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29417",
+    "utterance": "I have an ectomorph body type, do #2ECC71 silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
