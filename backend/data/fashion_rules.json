@@ -388,5 +388,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:58:46.828066"
+  },
+  {
+    "rule_id": "R-69034",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:58:46.864037"
   }
 ]
