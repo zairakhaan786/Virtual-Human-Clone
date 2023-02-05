@@ -440,5 +440,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:58:47.010324"
+  },
+  {
+    "rule_id": "R-4603",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:58:47.048037"
   }
 ]
