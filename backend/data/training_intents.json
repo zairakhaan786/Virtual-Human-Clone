@@ -153,5 +153,10 @@
     "intent_id": "INT-23222",
     "utterance": "How to style a oxford shoes for Spring if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-94674",
+    "utterance": "I have an inverted_triangle body type, do #3498DB chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
