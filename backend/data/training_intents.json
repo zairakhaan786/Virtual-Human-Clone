@@ -173,5 +173,10 @@
     "intent_id": "INT-86450",
     "utterance": "Recommend a casual outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-27320",
+    "utterance": "How to style a sneakers for Autumn if I am apple?",
+    "category": "fashion_advice"
   }
 ]
