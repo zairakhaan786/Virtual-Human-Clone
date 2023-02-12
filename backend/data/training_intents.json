@@ -188,5 +188,10 @@
     "intent_id": "INT-68393",
     "utterance": "Recommend a streetwear outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13330",
+    "utterance": "Is #E74C3C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
