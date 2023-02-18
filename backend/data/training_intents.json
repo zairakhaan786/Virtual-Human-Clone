@@ -218,5 +218,10 @@
     "intent_id": "INT-77008",
     "utterance": "I have an inverted_triangle body type, do #FF5733 chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57339",
+    "utterance": "What should I wear to a casual event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
