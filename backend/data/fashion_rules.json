@@ -544,5 +544,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T00:58:47.691290"
+  },
+  {
+    "rule_id": "R-98449",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:58:47.835359"
   }
 ]
