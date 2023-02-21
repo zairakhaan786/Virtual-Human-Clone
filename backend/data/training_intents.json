@@ -238,5 +238,10 @@
     "intent_id": "INT-61928",
     "utterance": "I have an apple body type, do #8E44AD denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42877",
+    "utterance": "Recommend a minimalist outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
