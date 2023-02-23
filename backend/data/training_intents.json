@@ -253,5 +253,10 @@
     "intent_id": "INT-17438",
     "utterance": "Recommend a minimalist outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-52473",
+    "utterance": "What should I wear to a formal event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
