@@ -258,5 +258,10 @@
     "intent_id": "INT-52473",
     "utterance": "What should I wear to a formal event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-75473",
+    "utterance": "How to style a blazer for Autumn if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
