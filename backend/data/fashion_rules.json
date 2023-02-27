@@ -622,5 +622,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:48.264010"
+  },
+  {
+    "rule_id": "R-56622",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.69,
+    "timestamp": "2026-03-26T00:58:48.335430"
   }
 ]
