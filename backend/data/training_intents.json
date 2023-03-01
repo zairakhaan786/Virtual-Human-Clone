@@ -268,5 +268,10 @@
     "intent_id": "INT-18003",
     "utterance": "Recommend a avant-garde outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87632",
+    "utterance": "I have an endomorph body type, do #2ECC71 pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
