@@ -687,5 +687,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:58:48.680962"
+  },
+  {
+    "rule_id": "R-98861",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:58:48.718819"
   }
 ]
