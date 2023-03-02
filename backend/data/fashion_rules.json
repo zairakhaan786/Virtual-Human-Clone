@@ -674,5 +674,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:58:48.595702"
+  },
+  {
+    "rule_id": "R-75447",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:58:48.680962"
   }
 ]
