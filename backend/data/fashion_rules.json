@@ -726,5 +726,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:58:48.834061"
+  },
+  {
+    "rule_id": "R-84624",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:48.871529"
   }
 ]
