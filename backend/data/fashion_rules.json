@@ -739,5 +739,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:48.871529"
+  },
+  {
+    "rule_id": "R-68828",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:58:48.907823"
   }
 ]
