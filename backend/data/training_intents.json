@@ -313,5 +313,10 @@
     "intent_id": "INT-45543",
     "utterance": "What should I wear to a avant-garde event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-93903",
+    "utterance": "Recommend a avant-garde outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
