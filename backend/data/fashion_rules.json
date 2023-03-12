@@ -778,5 +778,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:58:49.088997"
+  },
+  {
+    "rule_id": "R-52182",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.66,
+    "timestamp": "2026-03-26T00:58:49.233332"
   }
 ]
