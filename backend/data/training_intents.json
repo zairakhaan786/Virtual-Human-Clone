@@ -323,5 +323,10 @@
     "intent_id": "INT-39794",
     "utterance": "Is #9B59B6 too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-53271",
+    "utterance": "How to style a silk blouse for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
