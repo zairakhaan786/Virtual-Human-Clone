@@ -333,5 +333,10 @@
     "intent_id": "INT-64531",
     "utterance": "I have an ectomorph body type, do #3357FF chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-6620",
+    "utterance": "Recommend a business outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
