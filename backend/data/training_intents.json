@@ -343,5 +343,10 @@
     "intent_id": "INT-36822",
     "utterance": "Recommend a minimalist outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57037",
+    "utterance": "I have an mesomorph body type, do #F1C40F blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
