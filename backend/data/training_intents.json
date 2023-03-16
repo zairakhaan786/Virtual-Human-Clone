@@ -353,5 +353,10 @@
     "intent_id": "INT-70166",
     "utterance": "Recommend a athleisure outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71035",
+    "utterance": "How to style a chinos for Winter if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
