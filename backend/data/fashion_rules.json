@@ -843,5 +843,18 @@
     },
     "confidence_score": 0.65,
     "timestamp": "2026-03-26T00:58:49.525257"
+  },
+  {
+    "rule_id": "R-89967",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:58:49.596548"
   }
 ]
