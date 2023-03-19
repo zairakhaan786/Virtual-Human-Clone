@@ -368,5 +368,10 @@
     "intent_id": "INT-52620",
     "utterance": "Is #FF5733 too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-11944",
+    "utterance": "Is #1ABC9C too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
