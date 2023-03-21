@@ -908,5 +908,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:58:49.931998"
+  },
+  {
+    "rule_id": "R-29970",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:58:50.007005"
   }
 ]
