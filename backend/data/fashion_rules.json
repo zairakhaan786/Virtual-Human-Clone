@@ -921,5 +921,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:58:50.007005"
+  },
+  {
+    "rule_id": "R-20880",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:58:50.114455"
   }
 ]
