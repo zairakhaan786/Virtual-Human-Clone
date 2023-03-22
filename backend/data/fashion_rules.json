@@ -934,5 +934,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:58:50.114455"
+  },
+  {
+    "rule_id": "R-80670",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:58:50.221359"
   }
 ]
