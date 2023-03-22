@@ -393,5 +393,10 @@
     "intent_id": "INT-8869",
     "utterance": "Recommend a avant-garde outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-10540",
+    "utterance": "What should I wear to a streetwear event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
