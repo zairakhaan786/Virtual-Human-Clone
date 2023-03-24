@@ -398,5 +398,10 @@
     "intent_id": "INT-10540",
     "utterance": "What should I wear to a streetwear event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-77304",
+    "utterance": "Is #3357FF too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
