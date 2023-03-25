@@ -408,5 +408,10 @@
     "intent_id": "INT-77970",
     "utterance": "What should I wear to a avant-garde event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3286",
+    "utterance": "Recommend a formal outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
