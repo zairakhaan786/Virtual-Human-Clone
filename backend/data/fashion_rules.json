@@ -973,5 +973,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T00:58:50.368445"
+  },
+  {
+    "rule_id": "R-76038",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:58:50.511701"
   }
 ]
