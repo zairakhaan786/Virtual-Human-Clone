@@ -443,5 +443,10 @@
     "intent_id": "INT-23109",
     "utterance": "How to style a oxford shoes for Autumn if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65006",
+    "utterance": "How to style a cardigan for Spring if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
