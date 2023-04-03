@@ -1038,5 +1038,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:58:50.730032"
+  },
+  {
+    "rule_id": "R-32132",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:58:50.914926"
   }
 ]
