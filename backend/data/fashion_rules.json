@@ -1051,5 +1051,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T00:58:50.914926"
+  },
+  {
+    "rule_id": "R-2336",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:58:50.987368"
   }
 ]
