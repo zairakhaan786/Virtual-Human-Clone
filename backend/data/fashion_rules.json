@@ -1077,5 +1077,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T00:58:51.023829"
+  },
+  {
+    "rule_id": "R-85229",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:58:51.060451"
   }
 ]
