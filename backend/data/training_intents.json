@@ -453,5 +453,10 @@
     "intent_id": "INT-88107",
     "utterance": "What should I wear to a business event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47446",
+    "utterance": "Is #F1C40F too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
