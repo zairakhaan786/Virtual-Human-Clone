@@ -458,5 +458,10 @@
     "intent_id": "INT-47446",
     "utterance": "Is #F1C40F too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-60040",
+    "utterance": "I have an inverted_triangle body type, do #9B59B6 chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
