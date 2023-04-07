@@ -1129,5 +1129,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:58:51.283422"
+  },
+  {
+    "rule_id": "R-63451",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:58:51.356240"
   }
 ]
