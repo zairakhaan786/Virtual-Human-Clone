@@ -1155,5 +1155,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:58:51.393646"
+  },
+  {
+    "rule_id": "R-73055",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:51.466690"
   }
 ]
