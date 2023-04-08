@@ -473,5 +473,10 @@
     "intent_id": "INT-33853",
     "utterance": "Recommend a streetwear outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13284",
+    "utterance": "Recommend a business outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
