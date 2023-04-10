@@ -1168,5 +1168,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:51.466690"
+  },
+  {
+    "rule_id": "R-79237",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:58:51.538401"
   }
 ]
