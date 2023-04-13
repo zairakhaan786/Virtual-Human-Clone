@@ -1181,5 +1181,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:58:51.538401"
+  },
+  {
+    "rule_id": "R-78985",
+    "condition": {
+      "body_type": "apple",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:58:51.609464"
   }
 ]
