@@ -493,5 +493,10 @@
     "intent_id": "INT-90807",
     "utterance": "Is #F1C40F too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-99654",
+    "utterance": "What should I wear to a vintage event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
