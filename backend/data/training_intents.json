@@ -498,5 +498,10 @@
     "intent_id": "INT-99654",
     "utterance": "What should I wear to a vintage event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67008",
+    "utterance": "Recommend a formal outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
