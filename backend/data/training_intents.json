@@ -503,5 +503,10 @@
     "intent_id": "INT-67008",
     "utterance": "Recommend a formal outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-86041",
+    "utterance": "Recommend a athleisure outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
