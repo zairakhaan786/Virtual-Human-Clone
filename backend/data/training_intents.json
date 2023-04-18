@@ -513,5 +513,10 @@
     "intent_id": "INT-14589",
     "utterance": "What should I wear to a casual event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-84348",
+    "utterance": "Is #FF5733 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
