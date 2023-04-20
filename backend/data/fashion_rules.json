@@ -1233,5 +1233,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:58:51.975365"
+  },
+  {
+    "rule_id": "R-50460",
+    "condition": {
+      "body_type": "apple",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T00:58:52.048242"
   }
 ]
