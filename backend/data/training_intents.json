@@ -523,5 +523,10 @@
     "intent_id": "INT-78537",
     "utterance": "I have an hourglass body type, do #E67E22 silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-9484",
+    "utterance": "Recommend a business outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
