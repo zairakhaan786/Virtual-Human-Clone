@@ -528,5 +528,10 @@
     "intent_id": "INT-9484",
     "utterance": "Recommend a business outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29326",
+    "utterance": "I have an hourglass body type, do #2ECC71 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
