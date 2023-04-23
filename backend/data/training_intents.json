@@ -533,5 +533,10 @@
     "intent_id": "INT-29326",
     "utterance": "I have an hourglass body type, do #2ECC71 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-1163",
+    "utterance": "How to style a chinos for Autumn if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
