@@ -548,5 +548,10 @@
     "intent_id": "INT-66426",
     "utterance": "How to style a oxford shoes for Winter if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38118",
+    "utterance": "How to style a trench coat for Winter if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
