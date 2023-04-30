@@ -1311,5 +1311,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:58:52.410813"
+  },
+  {
+    "rule_id": "R-85982",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:58:52.484199"
   }
 ]
