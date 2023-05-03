@@ -1337,5 +1337,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:58:52.520550"
+  },
+  {
+    "rule_id": "R-52495",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.87,
+    "timestamp": "2026-03-26T00:58:52.556540"
   }
 ]
