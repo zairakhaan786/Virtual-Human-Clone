@@ -563,5 +563,10 @@
     "intent_id": "INT-40803",
     "utterance": "Is #2C3E50 too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34916",
+    "utterance": "How to style a sneakers for Autumn if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
