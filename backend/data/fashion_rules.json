@@ -1376,5 +1376,18 @@
     },
     "confidence_score": 0.67,
     "timestamp": "2026-03-26T00:58:52.746235"
+  },
+  {
+    "rule_id": "R-8655",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.77,
+    "timestamp": "2026-03-26T00:58:52.786892"
   }
 ]
