@@ -588,5 +588,10 @@
     "intent_id": "INT-73375",
     "utterance": "I have an inverted_triangle body type, do #33FF57 cardigans suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-2873",
+    "utterance": "How to style a blazer for Winter if I am pear?",
+    "category": "fashion_advice"
   }
 ]
