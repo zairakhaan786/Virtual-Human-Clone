@@ -1428,5 +1428,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:58:53.224332"
+  },
+  {
+    "rule_id": "R-41564",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:58:53.263204"
   }
 ]
