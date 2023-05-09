@@ -608,5 +608,10 @@
     "intent_id": "INT-13408",
     "utterance": "Recommend a avant-garde outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65329",
+    "utterance": "What should I wear to a business event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
