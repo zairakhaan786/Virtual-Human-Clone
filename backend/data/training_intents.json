@@ -613,5 +613,10 @@
     "intent_id": "INT-65329",
     "utterance": "What should I wear to a business event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-35865",
+    "utterance": "I have an apple body type, do #1ABC9C blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
