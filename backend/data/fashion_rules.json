@@ -1480,5 +1480,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:58:53.411797"
+  },
+  {
+    "rule_id": "R-80097",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.83,
+    "timestamp": "2026-03-26T00:58:53.448616"
   }
 ]
