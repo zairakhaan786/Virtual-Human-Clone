@@ -1519,5 +1519,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:58:53.522514"
+  },
+  {
+    "rule_id": "R-62476",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:58:53.559894"
   }
 ]
