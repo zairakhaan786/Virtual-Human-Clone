@@ -628,5 +628,10 @@
     "intent_id": "INT-89693",
     "utterance": "What should I wear to a minimalist event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-96303",
+    "utterance": "I have an ectomorph body type, do #33FF57 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
