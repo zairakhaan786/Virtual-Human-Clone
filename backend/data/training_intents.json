@@ -638,5 +638,10 @@
     "intent_id": "INT-40612",
     "utterance": "Is #3357FF too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22587",
+    "utterance": "What should I wear to a formal event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
