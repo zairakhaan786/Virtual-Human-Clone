@@ -633,5 +633,10 @@
     "intent_id": "INT-96303",
     "utterance": "I have an ectomorph body type, do #33FF57 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40612",
+    "utterance": "Is #3357FF too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
