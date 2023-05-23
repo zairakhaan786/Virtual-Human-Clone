@@ -658,5 +658,10 @@
     "intent_id": "INT-91925",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-1105",
+    "utterance": "Is #8E44AD too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
