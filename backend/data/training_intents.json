@@ -663,5 +663,10 @@
     "intent_id": "INT-1105",
     "utterance": "Is #8E44AD too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-66019",
+    "utterance": "Is #2C3E50 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
