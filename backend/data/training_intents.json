@@ -673,5 +673,10 @@
     "intent_id": "INT-95005",
     "utterance": "Is #33FF57 too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-79028",
+    "utterance": "How to style a blazer for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
