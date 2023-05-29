@@ -678,5 +678,10 @@
     "intent_id": "INT-79028",
     "utterance": "How to style a blazer for Summer if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-94327",
+    "utterance": "Is #FF5733 too bold for a business setting?",
+    "category": "fashion_advice"
   }
 ]
