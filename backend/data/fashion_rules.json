@@ -1675,5 +1675,18 @@
     },
     "confidence_score": 0.86,
     "timestamp": "2026-03-26T00:58:54.374984"
+  },
+  {
+    "rule_id": "R-54511",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:58:54.449948"
   }
 ]
