@@ -693,5 +693,10 @@
     "intent_id": "INT-15920",
     "utterance": "I have an hourglass body type, do #8E44AD trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-78790",
+    "utterance": "Is #1ABC9C too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
