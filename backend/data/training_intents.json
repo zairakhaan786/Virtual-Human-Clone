@@ -698,5 +698,10 @@
     "intent_id": "INT-78790",
     "utterance": "Is #1ABC9C too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20144",
+    "utterance": "I have an hourglass body type, do #FF5733 silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
