@@ -713,5 +713,10 @@
     "intent_id": "INT-81111",
     "utterance": "What should I wear to a formal event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-4518",
+    "utterance": "How to style a sneakers for Winter if I am pear?",
+    "category": "fashion_advice"
   }
 ]
