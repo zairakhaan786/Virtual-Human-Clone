@@ -1753,5 +1753,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:58:54.932656"
+  },
+  {
+    "rule_id": "R-21142",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:58:54.971048"
   }
 ]
