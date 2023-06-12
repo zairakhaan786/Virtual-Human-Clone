@@ -723,5 +723,10 @@
     "intent_id": "INT-44741",
     "utterance": "What should I wear to a casual event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22576",
+    "utterance": "What should I wear to a vintage event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
