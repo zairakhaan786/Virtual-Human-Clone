@@ -1818,5 +1818,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:58:55.118380"
+  },
+  {
+    "rule_id": "R-27152",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:58:55.156153"
   }
 ]
