@@ -1831,5 +1831,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:58:55.156153"
+  },
+  {
+    "rule_id": "R-33785",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:58:55.192791"
   }
 ]
