@@ -1857,5 +1857,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:58:55.266890"
+  },
+  {
+    "rule_id": "R-97212",
+    "condition": {
+      "body_type": "apple",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:55.339464"
   }
 ]
