@@ -1870,5 +1870,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:58:55.339464"
+  },
+  {
+    "rule_id": "R-93194",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:58:55.376387"
   }
 ]
