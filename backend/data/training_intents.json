@@ -733,5 +733,10 @@
     "intent_id": "INT-60048",
     "utterance": "Is #2ECC71 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67186",
+    "utterance": "I have an ectomorph body type, do #F1C40F denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
