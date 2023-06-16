@@ -738,5 +738,10 @@
     "intent_id": "INT-67186",
     "utterance": "I have an ectomorph body type, do #F1C40F denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-99168",
+    "utterance": "Is #E74C3C too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
