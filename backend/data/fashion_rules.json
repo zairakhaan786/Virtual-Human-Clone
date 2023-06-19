@@ -1896,5 +1896,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:58:55.520884"
+  },
+  {
+    "rule_id": "R-99733",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:58:55.630273"
   }
 ]
