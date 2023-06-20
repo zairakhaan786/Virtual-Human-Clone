@@ -1909,5 +1909,18 @@
     },
     "confidence_score": 0.71,
     "timestamp": "2026-03-26T00:58:55.630273"
+  },
+  {
+    "rule_id": "R-49777",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:58:55.667611"
   }
 ]
