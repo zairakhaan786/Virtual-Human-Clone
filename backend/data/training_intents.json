@@ -763,5 +763,10 @@
     "intent_id": "INT-15863",
     "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-9241",
+    "utterance": "I have an pear body type, do #2C3E50 pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
