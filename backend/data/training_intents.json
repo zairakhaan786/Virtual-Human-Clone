@@ -768,5 +768,10 @@
     "intent_id": "INT-9241",
     "utterance": "I have an pear body type, do #2C3E50 pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-74540",
+    "utterance": "I have an endomorph body type, do #E67E22 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
