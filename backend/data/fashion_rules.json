@@ -1948,5 +1948,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:58:55.815422"
+  },
+  {
+    "rule_id": "R-31837",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:58:55.889342"
   }
 ]
