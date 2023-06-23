@@ -773,5 +773,10 @@
     "intent_id": "INT-74540",
     "utterance": "I have an endomorph body type, do #E67E22 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43121",
+    "utterance": "Is #3357FF too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
