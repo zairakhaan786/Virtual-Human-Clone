@@ -1987,5 +1987,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:58:55.998448"
+  },
+  {
+    "rule_id": "R-94528",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:58:56.071391"
   }
 ]
