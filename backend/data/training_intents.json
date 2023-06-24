@@ -783,5 +783,10 @@
     "intent_id": "INT-67439",
     "utterance": "Recommend a athleisure outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-51193",
+    "utterance": "How to style a turtleneck for Autumn if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
