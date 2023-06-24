@@ -778,5 +778,10 @@
     "intent_id": "INT-43121",
     "utterance": "Is #3357FF too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67439",
+    "utterance": "Recommend a athleisure outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
