@@ -2000,5 +2000,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:58:56.071391"
+  },
+  {
+    "rule_id": "R-19464",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:58:56.181890"
   }
 ]
