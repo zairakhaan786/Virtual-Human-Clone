@@ -803,5 +803,10 @@
     "intent_id": "INT-52912",
     "utterance": "What should I wear to a business event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-36555",
+    "utterance": "Recommend a minimalist outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
