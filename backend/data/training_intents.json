@@ -813,5 +813,10 @@
     "intent_id": "INT-70179",
     "utterance": "Recommend a streetwear outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39335",
+    "utterance": "How to style a oxford shoes for Winter if I am pear?",
+    "category": "fashion_advice"
   }
 ]
