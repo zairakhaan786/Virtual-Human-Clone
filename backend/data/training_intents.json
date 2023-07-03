@@ -833,5 +833,10 @@
     "intent_id": "INT-39967",
     "utterance": "I have an pear body type, do #3498DB sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-19028",
+    "utterance": "I have an hourglass body type, do #33FF57 cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
