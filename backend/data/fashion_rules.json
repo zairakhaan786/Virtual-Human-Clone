@@ -2078,5 +2078,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:58:56.699848"
+  },
+  {
+    "rule_id": "R-67342",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:58:56.738104"
   }
 ]
