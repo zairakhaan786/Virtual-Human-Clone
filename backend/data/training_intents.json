@@ -838,5 +838,10 @@
     "intent_id": "INT-19028",
     "utterance": "I have an hourglass body type, do #33FF57 cardigans suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-23651",
+    "utterance": "What should I wear to a vintage event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
