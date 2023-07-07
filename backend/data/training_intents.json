@@ -843,5 +843,10 @@
     "intent_id": "INT-23651",
     "utterance": "What should I wear to a vintage event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-17016",
+    "utterance": "How to style a turtleneck for Summer if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
