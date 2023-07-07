@@ -848,5 +848,10 @@
     "intent_id": "INT-17016",
     "utterance": "How to style a turtleneck for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-30043",
+    "utterance": "Is #3357FF too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
