@@ -2130,5 +2130,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:58:56.885735"
+  },
+  {
+    "rule_id": "R-64734",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:58:56.923755"
   }
 ]
