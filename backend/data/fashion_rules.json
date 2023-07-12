@@ -2195,5 +2195,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:58:57.182503"
+  },
+  {
+    "rule_id": "R-48228",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:58:57.219383"
   }
 ]
