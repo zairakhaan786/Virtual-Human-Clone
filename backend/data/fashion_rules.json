@@ -2221,5 +2221,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:58:57.293948"
+  },
+  {
+    "rule_id": "R-23024",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:58:57.330884"
   }
 ]
