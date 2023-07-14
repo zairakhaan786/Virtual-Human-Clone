@@ -878,5 +878,10 @@
     "intent_id": "INT-2868",
     "utterance": "What should I wear to a minimalist event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-93678",
+    "utterance": "How to style a blazer for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
