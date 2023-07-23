@@ -908,5 +908,10 @@
     "intent_id": "INT-50807",
     "utterance": "How to style a pleated skirt for Autumn if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-14262",
+    "utterance": "I have an mesomorph body type, do #E74C3C turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
