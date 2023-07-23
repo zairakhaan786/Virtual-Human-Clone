@@ -2325,5 +2325,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:58:57.923250"
+  },
+  {
+    "rule_id": "R-84929",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:58:57.961034"
   }
 ]
