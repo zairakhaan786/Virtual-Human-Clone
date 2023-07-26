@@ -2364,5 +2364,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:58:58.071990"
+  },
+  {
+    "rule_id": "R-58604",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:58:58.158188"
   }
 ]
