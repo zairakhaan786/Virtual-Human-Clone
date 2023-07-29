@@ -2390,5 +2390,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:58:58.195838"
+  },
+  {
+    "rule_id": "R-26907",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:58:58.272078"
   }
 ]
