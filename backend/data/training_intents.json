@@ -928,5 +928,10 @@
     "intent_id": "INT-19491",
     "utterance": "Recommend a business outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-24373",
+    "utterance": "Is #8E44AD too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
