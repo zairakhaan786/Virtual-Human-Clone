@@ -933,5 +933,10 @@
     "intent_id": "INT-24373",
     "utterance": "Is #8E44AD too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-17419",
+    "utterance": "I have an ectomorph body type, do #33FF57 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
