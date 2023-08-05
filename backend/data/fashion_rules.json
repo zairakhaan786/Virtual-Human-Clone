@@ -2494,5 +2494,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T00:58:58.542965"
+  },
+  {
+    "rule_id": "R-22700",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:58:58.664243"
   }
 ]
