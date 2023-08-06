@@ -943,5 +943,10 @@
     "intent_id": "INT-66331",
     "utterance": "I have an hourglass body type, do #FF5733 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-97487",
+    "utterance": "Is #3357FF too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
