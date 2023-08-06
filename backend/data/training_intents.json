@@ -938,5 +938,10 @@
     "intent_id": "INT-17419",
     "utterance": "I have an ectomorph body type, do #33FF57 sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-66331",
+    "utterance": "I have an hourglass body type, do #FF5733 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
