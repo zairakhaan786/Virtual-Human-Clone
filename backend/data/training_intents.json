@@ -963,5 +963,10 @@
     "intent_id": "INT-63000",
     "utterance": "What should I wear to a athleisure event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-75275",
+    "utterance": "I have an mesomorph body type, do #E74C3C oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
