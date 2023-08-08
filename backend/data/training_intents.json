@@ -958,5 +958,10 @@
     "intent_id": "INT-5756",
     "utterance": "I have an endomorph body type, do #FF5733 pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-63000",
+    "utterance": "What should I wear to a athleisure event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
