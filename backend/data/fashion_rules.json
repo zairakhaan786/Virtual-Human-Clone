@@ -2533,5 +2533,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:58:58.864766"
+  },
+  {
+    "rule_id": "R-42706",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:58:59.153475"
   }
 ]
