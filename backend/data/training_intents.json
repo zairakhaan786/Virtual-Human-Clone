@@ -978,5 +978,10 @@
     "intent_id": "INT-77655",
     "utterance": "I have an pear body type, do #F1C40F pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-12267",
+    "utterance": "Recommend a business outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
