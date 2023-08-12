@@ -2546,5 +2546,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:58:59.153475"
+  },
+  {
+    "rule_id": "R-29161",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:58:59.286109"
   }
 ]
