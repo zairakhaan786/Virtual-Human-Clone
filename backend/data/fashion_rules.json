@@ -2559,5 +2559,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:58:59.286109"
+  },
+  {
+    "rule_id": "R-22175",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:58:59.409782"
   }
 ]
