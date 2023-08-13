@@ -993,5 +993,10 @@
     "intent_id": "INT-56904",
     "utterance": "I have an inverted_triangle body type, do #3357FF silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-14401",
+    "utterance": "I have an inverted_triangle body type, do #3357FF blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
