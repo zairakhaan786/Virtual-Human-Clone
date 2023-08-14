@@ -2585,5 +2585,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:58:59.486274"
+  },
+  {
+    "rule_id": "R-3075",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.83,
+    "timestamp": "2026-03-26T00:58:59.524711"
   }
 ]
