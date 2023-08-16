@@ -1018,5 +1018,10 @@
     "intent_id": "INT-49683",
     "utterance": "How to style a sneakers for Winter if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-85716",
+    "utterance": "What should I wear to a avant-garde event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
