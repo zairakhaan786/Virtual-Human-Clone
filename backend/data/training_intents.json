@@ -1033,5 +1033,10 @@
     "intent_id": "INT-6775",
     "utterance": "I have an pear body type, do #FF5733 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-68759",
+    "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
