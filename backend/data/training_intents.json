@@ -1048,5 +1048,10 @@
     "intent_id": "INT-63912",
     "utterance": "Recommend a casual outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43812",
+    "utterance": "How to style a chinos for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
