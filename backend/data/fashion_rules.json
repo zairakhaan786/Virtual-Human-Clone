@@ -2676,5 +2676,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:00.160366"
+  },
+  {
+    "rule_id": "R-76472",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.84,
+    "timestamp": "2026-03-26T00:59:00.198480"
   }
 ]
