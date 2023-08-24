@@ -1058,5 +1058,10 @@
     "intent_id": "INT-91841",
     "utterance": "How to style a silk blouse for Winter if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-82726",
+    "utterance": "Recommend a athleisure outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
