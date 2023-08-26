@@ -1078,5 +1078,10 @@
     "intent_id": "INT-69127",
     "utterance": "I have an apple body type, do #3357FF sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-53870",
+    "utterance": "How to style a blazer for Spring if I am pear?",
+    "category": "fashion_advice"
   }
 ]
