@@ -1093,5 +1093,10 @@
     "intent_id": "INT-72485",
     "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34896",
+    "utterance": "How to style a silk blouse for Winter if I am apple?",
+    "category": "fashion_advice"
   }
 ]
