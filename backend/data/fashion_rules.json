@@ -2728,5 +2728,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T00:59:00.458038"
+  },
+  {
+    "rule_id": "R-25655",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.86,
+    "timestamp": "2026-03-26T00:59:00.713526"
   }
 ]
