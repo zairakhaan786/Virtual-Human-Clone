@@ -1098,5 +1098,10 @@
     "intent_id": "INT-34896",
     "utterance": "How to style a silk blouse for Winter if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-80447",
+    "utterance": "What should I wear to a formal event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
