@@ -2806,5 +2806,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:00.979532"
+  },
+  {
+    "rule_id": "R-77641",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:59:01.019111"
   }
 ]
