@@ -1128,5 +1128,10 @@
     "intent_id": "INT-78310",
     "utterance": "Recommend a minimalist outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-69752",
+    "utterance": "Is #2ECC71 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
