@@ -2858,5 +2858,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:01.322007"
+  },
+  {
+    "rule_id": "R-1915",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:01.359316"
   }
 ]
