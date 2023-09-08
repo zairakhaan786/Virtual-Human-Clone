@@ -2897,5 +2897,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:59:01.585679"
+  },
+  {
+    "rule_id": "R-6259",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:01.623921"
   }
 ]
