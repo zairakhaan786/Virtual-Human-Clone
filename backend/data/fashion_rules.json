@@ -2923,5 +2923,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:59:01.698639"
+  },
+  {
+    "rule_id": "R-71742",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:01.749657"
   }
 ]
