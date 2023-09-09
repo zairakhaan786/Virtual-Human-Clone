@@ -1158,5 +1158,10 @@
     "intent_id": "INT-7906",
     "utterance": "I have an endomorph body type, do #E67E22 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72405",
+    "utterance": "Is #33FF57 too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
