@@ -1173,5 +1173,10 @@
     "intent_id": "INT-19254",
     "utterance": "What should I wear to a streetwear event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64787",
+    "utterance": "Recommend a avant-garde outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
