@@ -1168,5 +1168,10 @@
     "intent_id": "INT-83817",
     "utterance": "Recommend a formal outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-19254",
+    "utterance": "What should I wear to a streetwear event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
