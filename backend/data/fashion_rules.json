@@ -2962,5 +2962,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:01.959244"
+  },
+  {
+    "rule_id": "R-25861",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:02.034386"
   }
 ]
