@@ -1188,5 +1188,10 @@
     "intent_id": "INT-35162",
     "utterance": "Recommend a athleisure outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3366",
+    "utterance": "What should I wear to a casual event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
