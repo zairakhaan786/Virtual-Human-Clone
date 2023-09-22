@@ -3027,5 +3027,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:59:02.340591"
+  },
+  {
+    "rule_id": "R-85753",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:02.378182"
   }
 ]
