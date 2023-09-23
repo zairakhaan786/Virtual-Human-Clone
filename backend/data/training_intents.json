@@ -1203,5 +1203,10 @@
     "intent_id": "INT-71825",
     "utterance": "Is #F1C40F too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-81501",
+    "utterance": "How to style a pleated skirt for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
