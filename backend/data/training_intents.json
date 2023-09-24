@@ -1208,5 +1208,10 @@
     "intent_id": "INT-81501",
     "utterance": "How to style a pleated skirt for Spring if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16414",
+    "utterance": "Is #9B59B6 too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
