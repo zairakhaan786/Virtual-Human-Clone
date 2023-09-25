@@ -1223,5 +1223,10 @@
     "intent_id": "INT-85258",
     "utterance": "Is #33FF57 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-93342",
+    "utterance": "What should I wear to a business event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
