@@ -1233,5 +1233,10 @@
     "intent_id": "INT-96915",
     "utterance": "What should I wear to a casual event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-31183",
+    "utterance": "How to style a sneakers for Autumn if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
