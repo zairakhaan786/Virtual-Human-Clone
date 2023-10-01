@@ -1258,5 +1258,10 @@
     "intent_id": "INT-38107",
     "utterance": "Recommend a minimalist outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-58396",
+    "utterance": "Is #F1C40F too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
