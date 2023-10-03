@@ -1273,5 +1273,10 @@
     "intent_id": "INT-29487",
     "utterance": "I have an apple body type, do #9B59B6 silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-37473",
+    "utterance": "I have an hourglass body type, do #2ECC71 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
