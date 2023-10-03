@@ -1268,5 +1268,10 @@
     "intent_id": "INT-80762",
     "utterance": "Is #E67E22 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29487",
+    "utterance": "I have an apple body type, do #9B59B6 silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
