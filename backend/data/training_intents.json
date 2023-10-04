@@ -1278,5 +1278,10 @@
     "intent_id": "INT-37473",
     "utterance": "I have an hourglass body type, do #2ECC71 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-25993",
+    "utterance": "Recommend a vintage outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
