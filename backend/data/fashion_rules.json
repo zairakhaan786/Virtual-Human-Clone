@@ -3261,5 +3261,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T00:59:03.746788"
+  },
+  {
+    "rule_id": "R-43668",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:03.824479"
   }
 ]
