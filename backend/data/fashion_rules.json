@@ -3274,5 +3274,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:03.824479"
+  },
+  {
+    "rule_id": "R-71200",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:59:03.939045"
   }
 ]
