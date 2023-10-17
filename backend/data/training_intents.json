@@ -1318,5 +1318,10 @@
     "intent_id": "INT-86046",
     "utterance": "Is #E67E22 too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18430",
+    "utterance": "What should I wear to a streetwear event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
