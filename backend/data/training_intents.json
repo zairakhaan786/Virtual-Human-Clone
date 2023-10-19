@@ -1333,5 +1333,10 @@
     "intent_id": "INT-1160",
     "utterance": "Recommend a casual outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-25213",
+    "utterance": "Is #2C3E50 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
