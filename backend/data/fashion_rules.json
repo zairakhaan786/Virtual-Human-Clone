@@ -3313,5 +3313,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:59:04.127742"
+  },
+  {
+    "rule_id": "R-68424",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:04.203667"
   }
 ]
