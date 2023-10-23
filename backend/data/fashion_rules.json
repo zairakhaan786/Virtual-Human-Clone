@@ -3352,5 +3352,18 @@
     },
     "confidence_score": 0.98,
     "timestamp": "2026-03-26T00:59:04.317419"
+  },
+  {
+    "rule_id": "R-52566",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T00:59:04.392962"
   }
 ]
