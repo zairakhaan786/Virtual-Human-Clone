@@ -1353,5 +1353,10 @@
     "intent_id": "INT-2146",
     "utterance": "I have an inverted_triangle body type, do #1ABC9C sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70899",
+    "utterance": "I have an mesomorph body type, do #E74C3C silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
