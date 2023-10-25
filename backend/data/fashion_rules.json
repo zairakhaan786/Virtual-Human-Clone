@@ -3378,5 +3378,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:59:04.472490"
+  },
+  {
+    "rule_id": "R-65661",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.68,
+    "timestamp": "2026-03-26T00:59:04.585166"
   }
 ]
