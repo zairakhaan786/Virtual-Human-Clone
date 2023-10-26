@@ -3417,5 +3417,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:04.739512"
+  },
+  {
+    "rule_id": "R-17881",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:59:04.814161"
   }
 ]
