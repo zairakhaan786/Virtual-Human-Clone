@@ -1363,5 +1363,10 @@
     "intent_id": "INT-48050",
     "utterance": "Is #9B59B6 too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-23152",
+    "utterance": "Is #E74C3C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
