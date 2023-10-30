@@ -3443,5 +3443,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T00:59:04.854096"
+  },
+  {
+    "rule_id": "R-71860",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:59:04.934198"
   }
 ]
