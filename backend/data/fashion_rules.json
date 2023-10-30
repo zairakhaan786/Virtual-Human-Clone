@@ -3456,5 +3456,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:59:04.934198"
+  },
+  {
+    "rule_id": "R-32099",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:04.973243"
   }
 ]
