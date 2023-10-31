@@ -1393,5 +1393,10 @@
     "intent_id": "INT-57297",
     "utterance": "Is #3498DB too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-6811",
+    "utterance": "How to style a cardigan for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
