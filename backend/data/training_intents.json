@@ -1398,5 +1398,10 @@
     "intent_id": "INT-6811",
     "utterance": "How to style a cardigan for Spring if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39307",
+    "utterance": "How to style a pleated skirt for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
