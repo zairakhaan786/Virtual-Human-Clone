@@ -1413,5 +1413,10 @@
     "intent_id": "INT-85086",
     "utterance": "I have an inverted_triangle body type, do #33FF57 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39551",
+    "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
