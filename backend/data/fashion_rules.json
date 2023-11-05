@@ -3547,5 +3547,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:59:05.502785"
+  },
+  {
+    "rule_id": "R-28549",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T00:59:05.576920"
   }
 ]
