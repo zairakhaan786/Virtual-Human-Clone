@@ -3586,5 +3586,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:05.727399"
+  },
+  {
+    "rule_id": "R-85661",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:59:05.766693"
   }
 ]
