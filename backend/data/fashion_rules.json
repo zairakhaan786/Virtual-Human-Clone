@@ -3599,5 +3599,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:59:05.766693"
+  },
+  {
+    "rule_id": "R-60333",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:59:05.805239"
   }
 ]
