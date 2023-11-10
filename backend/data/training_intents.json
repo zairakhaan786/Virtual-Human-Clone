@@ -1433,5 +1433,10 @@
     "intent_id": "INT-30112",
     "utterance": "I have an mesomorph body type, do #F1C40F blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-75523",
+    "utterance": "I have an apple body type, do #E67E22 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
