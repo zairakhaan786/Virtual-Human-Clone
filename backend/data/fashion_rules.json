@@ -3690,5 +3690,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:59:06.225472"
+  },
+  {
+    "rule_id": "R-77050",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:59:06.264784"
   }
 ]
