@@ -3703,5 +3703,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:06.264784"
+  },
+  {
+    "rule_id": "R-9068",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:59:06.339207"
   }
 ]
