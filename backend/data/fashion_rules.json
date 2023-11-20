@@ -3768,5 +3768,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T00:59:06.492926"
+  },
+  {
+    "rule_id": "R-31080",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:59:06.532006"
   }
 ]
