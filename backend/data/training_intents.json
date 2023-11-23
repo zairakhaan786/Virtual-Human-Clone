@@ -1473,5 +1473,10 @@
     "intent_id": "INT-75032",
     "utterance": "Is #E67E22 too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65149",
+    "utterance": "How to style a denim jacket for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
