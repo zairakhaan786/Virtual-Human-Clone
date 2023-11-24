@@ -1488,5 +1488,10 @@
     "intent_id": "INT-20244",
     "utterance": "Recommend a business outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-7412",
+    "utterance": "I have an inverted_triangle body type, do #3498DB turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
