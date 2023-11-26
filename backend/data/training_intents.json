@@ -1498,5 +1498,10 @@
     "intent_id": "INT-97525",
     "utterance": "I have an hourglass body type, do #3498DB turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72544",
+    "utterance": "What should I wear to a vintage event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
