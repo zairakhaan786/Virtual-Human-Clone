@@ -1513,5 +1513,10 @@
     "intent_id": "INT-45697",
     "utterance": "What should I wear to a formal event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71673",
+    "utterance": "Recommend a streetwear outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
