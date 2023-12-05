@@ -1538,5 +1538,10 @@
     "intent_id": "INT-73322",
     "utterance": "Recommend a formal outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64581",
+    "utterance": "I have an ectomorph body type, do #3357FF blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
