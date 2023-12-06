@@ -1543,5 +1543,10 @@
     "intent_id": "INT-64581",
     "utterance": "I have an ectomorph body type, do #3357FF blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83828",
+    "utterance": "How to style a cardigan for Summer if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
