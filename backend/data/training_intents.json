@@ -1548,5 +1548,10 @@
     "intent_id": "INT-83828",
     "utterance": "How to style a cardigan for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67449",
+    "utterance": "I have an pear body type, do #E67E22 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
