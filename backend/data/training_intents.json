@@ -1553,5 +1553,10 @@
     "intent_id": "INT-67449",
     "utterance": "I have an pear body type, do #E67E22 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3120",
+    "utterance": "What should I wear to a vintage event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
