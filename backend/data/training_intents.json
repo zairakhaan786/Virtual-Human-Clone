@@ -1558,5 +1558,10 @@
     "intent_id": "INT-3120",
     "utterance": "What should I wear to a vintage event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-97559",
+    "utterance": "Recommend a athleisure outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
