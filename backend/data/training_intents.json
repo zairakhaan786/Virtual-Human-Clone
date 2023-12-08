@@ -1568,5 +1568,10 @@
     "intent_id": "INT-82198",
     "utterance": "What should I wear to a athleisure event in the Spring?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-41640",
+    "utterance": "I have an inverted_triangle body type, do #E74C3C chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
