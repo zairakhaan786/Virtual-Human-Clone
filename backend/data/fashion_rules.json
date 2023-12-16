@@ -4028,5 +4028,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:59:08.488739"
+  },
+  {
+    "rule_id": "R-29259",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:08.527805"
   }
 ]
