@@ -4119,5 +4119,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:59:08.847762"
+  },
+  {
+    "rule_id": "R-18336",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:08.887643"
   }
 ]
