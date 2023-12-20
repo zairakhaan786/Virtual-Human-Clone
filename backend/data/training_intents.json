@@ -1638,5 +1638,10 @@
     "intent_id": "INT-3185",
     "utterance": "Is #1ABC9C too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-95415",
+    "utterance": "I have an pear body type, do #FF5733 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
