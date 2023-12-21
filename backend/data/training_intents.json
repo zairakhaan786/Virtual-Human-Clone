@@ -1643,5 +1643,10 @@
     "intent_id": "INT-95415",
     "utterance": "I have an pear body type, do #FF5733 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-33365",
+    "utterance": "What should I wear to a business event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
