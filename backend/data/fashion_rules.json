@@ -4132,5 +4132,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:08.887643"
+  },
+  {
+    "rule_id": "R-5343",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:09.039716"
   }
 ]
