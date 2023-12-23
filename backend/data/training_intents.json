@@ -1668,5 +1668,10 @@
     "intent_id": "INT-73975",
     "utterance": "Recommend a business outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-56740",
+    "utterance": "Recommend a minimalist outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
