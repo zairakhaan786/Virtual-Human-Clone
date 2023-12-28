@@ -1678,5 +1678,10 @@
     "intent_id": "INT-83556",
     "utterance": "I have an hourglass body type, do #2C3E50 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70657",
+    "utterance": "How to style a cardigan for Autumn if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
