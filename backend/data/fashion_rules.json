@@ -4236,5 +4236,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:59:09.617697"
+  },
+  {
+    "rule_id": "R-32078",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:59:09.657397"
   }
 ]
