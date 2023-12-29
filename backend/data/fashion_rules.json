@@ -4210,5 +4210,18 @@
     },
     "confidence_score": 0.84,
     "timestamp": "2026-03-26T00:59:09.466978"
+  },
+  {
+    "rule_id": "R-60166",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:09.579023"
   }
 ]
