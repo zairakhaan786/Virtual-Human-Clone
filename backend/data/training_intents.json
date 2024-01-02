@@ -1703,5 +1703,10 @@
     "intent_id": "INT-72866",
     "utterance": "Is #1ABC9C too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-49541",
+    "utterance": "Is #3498DB too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
