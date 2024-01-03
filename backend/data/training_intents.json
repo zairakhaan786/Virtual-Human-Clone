@@ -1708,5 +1708,10 @@
     "intent_id": "INT-49541",
     "utterance": "Is #3498DB too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72208",
+    "utterance": "How to style a trench coat for Spring if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
