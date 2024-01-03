@@ -1718,5 +1718,10 @@
     "intent_id": "INT-92056",
     "utterance": "Recommend a minimalist outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-21707",
+    "utterance": "How to style a trench coat for Spring if I am ectomorph?",
+    "category": "fashion_advice"
   }
 ]
