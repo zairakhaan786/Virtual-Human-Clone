@@ -1728,5 +1728,10 @@
     "intent_id": "INT-30498",
     "utterance": "Recommend a minimalist outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-36189",
+    "utterance": "How to style a sneakers for Summer if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
