@@ -1738,5 +1738,10 @@
     "intent_id": "INT-49233",
     "utterance": "Is #1ABC9C too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-66965",
+    "utterance": "What should I wear to a minimalist event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
