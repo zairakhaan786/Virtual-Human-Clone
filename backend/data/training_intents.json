@@ -1743,5 +1743,10 @@
     "intent_id": "INT-66965",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-50592",
+    "utterance": "How to style a blazer for Spring if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
