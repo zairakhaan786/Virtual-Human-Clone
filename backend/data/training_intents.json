@@ -1768,5 +1768,10 @@
     "intent_id": "INT-33986",
     "utterance": "Is #9B59B6 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-25083",
+    "utterance": "I have an apple body type, do #2ECC71 denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
