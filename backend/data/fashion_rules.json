@@ -4379,5 +4379,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:10.733815"
+  },
+  {
+    "rule_id": "R-38168",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:10.814886"
   }
 ]
