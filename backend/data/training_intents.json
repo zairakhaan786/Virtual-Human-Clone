@@ -1803,5 +1803,10 @@
     "intent_id": "INT-13209",
     "utterance": "I have an ectomorph body type, do #2C3E50 denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-21672",
+    "utterance": "How to style a denim jacket for Autumn if I am pear?",
+    "category": "fashion_advice"
   }
 ]
