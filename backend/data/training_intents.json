@@ -1813,5 +1813,10 @@
     "intent_id": "INT-15113",
     "utterance": "How to style a silk blouse for Autumn if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42109",
+    "utterance": "Recommend a casual outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
