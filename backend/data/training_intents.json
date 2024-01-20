@@ -1818,5 +1818,10 @@
     "intent_id": "INT-42109",
     "utterance": "Recommend a casual outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-31897",
+    "utterance": "I have an inverted_triangle body type, do #E74C3C chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
