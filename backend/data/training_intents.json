@@ -1853,5 +1853,10 @@
     "intent_id": "INT-67406",
     "utterance": "How to style a chinos for Spring if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28340",
+    "utterance": "I have an hourglass body type, do #1ABC9C blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
