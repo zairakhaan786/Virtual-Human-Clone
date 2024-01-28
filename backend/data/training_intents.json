@@ -1873,5 +1873,10 @@
     "intent_id": "INT-26349",
     "utterance": "Recommend a casual outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-82800",
+    "utterance": "Recommend a formal outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
