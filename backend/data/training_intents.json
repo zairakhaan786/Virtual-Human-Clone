@@ -1878,5 +1878,10 @@
     "intent_id": "INT-82800",
     "utterance": "Recommend a formal outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28526",
+    "utterance": "How to style a trench coat for Autumn if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
