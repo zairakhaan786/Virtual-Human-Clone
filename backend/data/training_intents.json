@@ -1883,5 +1883,10 @@
     "intent_id": "INT-28526",
     "utterance": "How to style a trench coat for Autumn if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-23680",
+    "utterance": "Is #FF5733 too bold for a business setting?",
+    "category": "fashion_advice"
   }
 ]
