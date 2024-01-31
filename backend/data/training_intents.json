@@ -1893,5 +1893,10 @@
     "intent_id": "INT-37358",
     "utterance": "How to style a oxford shoes for Autumn if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-15413",
+    "utterance": "How to style a blazer for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
