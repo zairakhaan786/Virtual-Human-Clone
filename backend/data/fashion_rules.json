@@ -4548,5 +4548,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T00:59:12.172051"
+  },
+  {
+    "rule_id": "R-92467",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:59:12.212635"
   }
 ]
