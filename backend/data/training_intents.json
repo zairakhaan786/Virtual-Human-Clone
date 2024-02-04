@@ -1898,5 +1898,10 @@
     "intent_id": "INT-15413",
     "utterance": "How to style a blazer for Winter if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-90743",
+    "utterance": "Is #F1C40F too bold for a business setting?",
+    "category": "fashion_advice"
   }
 ]
