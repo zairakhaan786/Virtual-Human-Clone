@@ -4652,5 +4652,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:12.643870"
+  },
+  {
+    "rule_id": "R-22207",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:59:12.683086"
   }
 ]
