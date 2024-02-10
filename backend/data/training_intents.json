@@ -1933,5 +1933,10 @@
     "intent_id": "INT-47376",
     "utterance": "Recommend a minimalist outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-46058",
+    "utterance": "How to style a silk blouse for Winter if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
