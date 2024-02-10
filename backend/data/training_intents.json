@@ -1928,5 +1928,10 @@
     "intent_id": "INT-35922",
     "utterance": "What should I wear to a athleisure event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47376",
+    "utterance": "Recommend a minimalist outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
