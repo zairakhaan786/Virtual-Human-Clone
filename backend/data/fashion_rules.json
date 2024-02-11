@@ -4704,5 +4704,18 @@
     },
     "confidence_score": 0.77,
     "timestamp": "2026-03-26T00:59:12.953145"
+  },
+  {
+    "rule_id": "R-86223",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:13.032894"
   }
 ]
