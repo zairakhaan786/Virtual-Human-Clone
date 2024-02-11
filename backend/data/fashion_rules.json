@@ -4717,5 +4717,18 @@
     },
     "confidence_score": 0.71,
     "timestamp": "2026-03-26T00:59:13.032894"
+  },
+  {
+    "rule_id": "R-15814",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:59:13.074003"
   }
 ]
