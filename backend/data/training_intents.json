@@ -1948,5 +1948,10 @@
     "intent_id": "INT-36978",
     "utterance": "Recommend a vintage outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-96474",
+    "utterance": "Is #2ECC71 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
