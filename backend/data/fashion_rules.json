@@ -4756,5 +4756,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:59:13.234891"
+  },
+  {
+    "rule_id": "R-6096",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:13.354620"
   }
 ]
