@@ -1968,5 +1968,10 @@
     "intent_id": "INT-7288",
     "utterance": "Is #F1C40F too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70985",
+    "utterance": "Is #33FF57 too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
