@@ -1983,5 +1983,10 @@
     "intent_id": "INT-60188",
     "utterance": "I have an ectomorph body type, do #8E44AD chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47060",
+    "utterance": "How to style a cardigan for Summer if I am ectomorph?",
+    "category": "fashion_advice"
   }
 ]
