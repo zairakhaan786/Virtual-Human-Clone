@@ -4782,5 +4782,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T00:59:13.581641"
+  },
+  {
+    "rule_id": "R-76122",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:13.695486"
   }
 ]
