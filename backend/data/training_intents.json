@@ -1998,5 +1998,10 @@
     "intent_id": "INT-91197",
     "utterance": "I have an apple body type, do #1ABC9C chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-62924",
+    "utterance": "Recommend a minimalist outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
