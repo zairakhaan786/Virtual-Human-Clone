@@ -2003,5 +2003,10 @@
     "intent_id": "INT-62924",
     "utterance": "Recommend a minimalist outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39569",
+    "utterance": "Recommend a vintage outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
