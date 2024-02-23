@@ -2008,5 +2008,10 @@
     "intent_id": "INT-39569",
     "utterance": "Recommend a vintage outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-6492",
+    "utterance": "I have an hourglass body type, do #E74C3C turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
