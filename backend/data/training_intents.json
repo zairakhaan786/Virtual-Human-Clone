@@ -2023,5 +2023,10 @@
     "intent_id": "INT-98042",
     "utterance": "Is #9B59B6 too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65279",
+    "utterance": "Is #2C3E50 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
