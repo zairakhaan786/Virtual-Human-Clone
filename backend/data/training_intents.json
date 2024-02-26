@@ -2028,5 +2028,10 @@
     "intent_id": "INT-65279",
     "utterance": "Is #2C3E50 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-97049",
+    "utterance": "How to style a chinos for Spring if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
