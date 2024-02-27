@@ -2043,5 +2043,10 @@
     "intent_id": "INT-51118",
     "utterance": "How to style a pleated skirt for Spring if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43923",
+    "utterance": "I have an pear body type, do #3357FF blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
