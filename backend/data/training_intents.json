@@ -2053,5 +2053,10 @@
     "intent_id": "INT-39627",
     "utterance": "I have an pear body type, do #E67E22 pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22964",
+    "utterance": "How to style a silk blouse for Winter if I am pear?",
+    "category": "fashion_advice"
   }
 ]
