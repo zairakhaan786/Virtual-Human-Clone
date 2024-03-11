@@ -2078,5 +2078,10 @@
     "intent_id": "INT-36186",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71403",
+    "utterance": "I have an ectomorph body type, do #2ECC71 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
