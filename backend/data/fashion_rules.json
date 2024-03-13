@@ -5055,5 +5055,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:15.153553"
+  },
+  {
+    "rule_id": "R-10270",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.87,
+    "timestamp": "2026-03-26T00:59:15.230329"
   }
 ]
