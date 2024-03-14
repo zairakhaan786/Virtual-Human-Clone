@@ -2088,5 +2088,10 @@
     "intent_id": "INT-71374",
     "utterance": "What should I wear to a avant-garde event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-95557",
+    "utterance": "Is #3498DB too bold for a business setting?",
+    "category": "fashion_advice"
   }
 ]
