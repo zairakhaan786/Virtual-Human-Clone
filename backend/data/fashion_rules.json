@@ -5133,5 +5133,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:15.466555"
+  },
+  {
+    "rule_id": "R-10215",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:59:15.505981"
   }
 ]
