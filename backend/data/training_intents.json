@@ -2093,5 +2093,10 @@
     "intent_id": "INT-95557",
     "utterance": "Is #3498DB too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64861",
+    "utterance": "Recommend a streetwear outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
