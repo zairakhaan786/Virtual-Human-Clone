@@ -2098,5 +2098,10 @@
     "intent_id": "INT-64861",
     "utterance": "Recommend a streetwear outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83768",
+    "utterance": "I have an endomorph body type, do #3357FF chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
