@@ -2108,5 +2108,10 @@
     "intent_id": "INT-97545",
     "utterance": "What should I wear to a athleisure event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70971",
+    "utterance": "Is #F1C40F too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
