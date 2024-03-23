@@ -2123,5 +2123,10 @@
     "intent_id": "INT-99959",
     "utterance": "I have an inverted_triangle body type, do #E67E22 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-80232",
+    "utterance": "Recommend a vintage outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
