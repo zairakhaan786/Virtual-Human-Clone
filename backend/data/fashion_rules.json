@@ -5198,5 +5198,18 @@
     },
     "confidence_score": 0.67,
     "timestamp": "2026-03-26T00:59:15.931545"
+  },
+  {
+    "rule_id": "R-24883",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:59:15.971384"
   }
 ]
