@@ -5224,5 +5224,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T00:59:16.011200"
+  },
+  {
+    "rule_id": "R-63731",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T00:59:16.052115"
   }
 ]
