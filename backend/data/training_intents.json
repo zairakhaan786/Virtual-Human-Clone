@@ -2128,5 +2128,10 @@
     "intent_id": "INT-80232",
     "utterance": "Recommend a vintage outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-19206",
+    "utterance": "Recommend a athleisure outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
