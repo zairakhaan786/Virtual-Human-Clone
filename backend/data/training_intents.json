@@ -2133,5 +2133,10 @@
     "intent_id": "INT-19206",
     "utterance": "Recommend a athleisure outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65676",
+    "utterance": "Is #1ABC9C too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
