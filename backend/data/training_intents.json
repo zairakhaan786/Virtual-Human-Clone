@@ -2143,5 +2143,10 @@
     "intent_id": "INT-22960",
     "utterance": "How to style a denim jacket for Spring if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22876",
+    "utterance": "How to style a trench coat for Summer if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
