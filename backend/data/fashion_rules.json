@@ -5263,5 +5263,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:16.283266"
+  },
+  {
+    "rule_id": "R-74666",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.83,
+    "timestamp": "2026-03-26T00:59:16.359384"
   }
 ]
