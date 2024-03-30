@@ -5276,5 +5276,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:16.359384"
+  },
+  {
+    "rule_id": "R-15960",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:59:16.398447"
   }
 ]
