@@ -5250,5 +5250,18 @@
     },
     "confidence_score": 0.8,
     "timestamp": "2026-03-26T00:59:16.241491"
+  },
+  {
+    "rule_id": "R-45434",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:59:16.283266"
   }
 ]
