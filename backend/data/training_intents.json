@@ -2153,5 +2153,10 @@
     "intent_id": "INT-11945",
     "utterance": "Recommend a streetwear outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-37365",
+    "utterance": "I have an apple body type, do #9B59B6 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
