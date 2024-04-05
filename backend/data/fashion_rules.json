@@ -5315,5 +5315,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:59:16.518759"
+  },
+  {
+    "rule_id": "R-18729",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.86,
+    "timestamp": "2026-03-26T00:59:16.561050"
   }
 ]
