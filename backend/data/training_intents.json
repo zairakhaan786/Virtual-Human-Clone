@@ -2163,5 +2163,10 @@
     "intent_id": "INT-24885",
     "utterance": "Recommend a formal outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18573",
+    "utterance": "Recommend a casual outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
