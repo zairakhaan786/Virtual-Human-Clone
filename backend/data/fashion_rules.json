@@ -5341,5 +5341,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:16.642735"
+  },
+  {
+    "rule_id": "R-9537",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:16.682209"
   }
 ]
