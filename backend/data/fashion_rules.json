@@ -5367,5 +5367,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:16.722075"
+  },
+  {
+    "rule_id": "R-4015",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:59:16.875074"
   }
 ]
