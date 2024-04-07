@@ -2173,5 +2173,10 @@
     "intent_id": "INT-44069",
     "utterance": "How to style a oxford shoes for Spring if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-96712",
+    "utterance": "Recommend a casual outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
