@@ -2178,5 +2178,10 @@
     "intent_id": "INT-96712",
     "utterance": "Recommend a casual outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-92948",
+    "utterance": "Is #F1C40F too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
