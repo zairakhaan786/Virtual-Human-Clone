@@ -2188,5 +2188,10 @@
     "intent_id": "INT-40381",
     "utterance": "I have an ectomorph body type, do #3357FF denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-76770",
+    "utterance": "I have an inverted_triangle body type, do #3498DB chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
