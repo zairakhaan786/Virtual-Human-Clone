@@ -2198,5 +2198,10 @@
     "intent_id": "INT-81605",
     "utterance": "Recommend a vintage outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-35274",
+    "utterance": "How to style a pleated skirt for Winter if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
