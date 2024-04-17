@@ -5510,5 +5510,18 @@
     },
     "confidence_score": 0.98,
     "timestamp": "2026-03-26T00:59:17.426298"
+  },
+  {
+    "rule_id": "R-5784",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:59:17.540486"
   }
 ]
