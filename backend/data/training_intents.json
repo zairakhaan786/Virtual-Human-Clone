@@ -2203,5 +2203,10 @@
     "intent_id": "INT-35274",
     "utterance": "How to style a pleated skirt for Winter if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72455",
+    "utterance": "How to style a blazer for Summer if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
