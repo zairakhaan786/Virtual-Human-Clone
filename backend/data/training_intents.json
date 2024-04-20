@@ -2208,5 +2208,10 @@
     "intent_id": "INT-72455",
     "utterance": "How to style a blazer for Summer if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-76569",
+    "utterance": "What should I wear to a business event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
