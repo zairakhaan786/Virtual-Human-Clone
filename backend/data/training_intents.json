@@ -2218,5 +2218,10 @@
     "intent_id": "INT-58453",
     "utterance": "Is #33FF57 too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-35709",
+    "utterance": "I have an endomorph body type, do #2ECC71 denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
