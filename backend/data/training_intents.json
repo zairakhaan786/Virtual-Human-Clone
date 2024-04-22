@@ -2228,5 +2228,10 @@
     "intent_id": "INT-60048",
     "utterance": "Is #3498DB too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26817",
+    "utterance": "Recommend a formal outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
