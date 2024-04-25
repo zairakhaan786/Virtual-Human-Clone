@@ -2253,5 +2253,10 @@
     "intent_id": "INT-95158",
     "utterance": "How to style a sneakers for Spring if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39969",
+    "utterance": "Recommend a minimalist outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
