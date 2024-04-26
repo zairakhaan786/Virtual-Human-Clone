@@ -5601,5 +5601,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:18.119430"
+  },
+  {
+    "rule_id": "R-56632",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:59:18.196414"
   }
 ]
