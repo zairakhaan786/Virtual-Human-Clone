@@ -2258,5 +2258,10 @@
     "intent_id": "INT-39969",
     "utterance": "Recommend a minimalist outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-45729",
+    "utterance": "How to style a trench coat for Spring if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
