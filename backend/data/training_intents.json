@@ -2278,5 +2278,10 @@
     "intent_id": "INT-73546",
     "utterance": "How to style a sneakers for Winter if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-53434",
+    "utterance": "How to style a cardigan for Winter if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
