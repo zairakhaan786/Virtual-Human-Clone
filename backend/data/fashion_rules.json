@@ -5640,5 +5640,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:59:18.425139"
+  },
+  {
+    "rule_id": "R-80037",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.69,
+    "timestamp": "2026-03-26T00:59:18.540972"
   }
 ]
