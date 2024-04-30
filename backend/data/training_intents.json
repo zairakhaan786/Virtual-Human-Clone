@@ -2293,5 +2293,10 @@
     "intent_id": "INT-38325",
     "utterance": "Is #F1C40F too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42779",
+    "utterance": "Is #E67E22 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
