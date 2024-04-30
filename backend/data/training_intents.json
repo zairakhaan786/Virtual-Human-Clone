@@ -2288,5 +2288,10 @@
     "intent_id": "INT-50911",
     "utterance": "Recommend a minimalist outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38325",
+    "utterance": "Is #F1C40F too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
