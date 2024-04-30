@@ -2298,5 +2298,10 @@
     "intent_id": "INT-42779",
     "utterance": "Is #E67E22 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-96158",
+    "utterance": "What should I wear to a avant-garde event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
