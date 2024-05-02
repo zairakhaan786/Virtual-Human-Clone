@@ -5692,5 +5692,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T00:59:18.852846"
+  },
+  {
+    "rule_id": "R-93342",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.66,
+    "timestamp": "2026-03-26T00:59:18.892229"
   }
 ]
