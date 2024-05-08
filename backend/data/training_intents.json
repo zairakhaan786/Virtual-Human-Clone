@@ -2308,5 +2308,10 @@
     "intent_id": "INT-13927",
     "utterance": "How to style a trench coat for Summer if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-12427",
+    "utterance": "How to style a oxford shoes for Winter if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
