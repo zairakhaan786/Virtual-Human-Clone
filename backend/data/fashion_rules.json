@@ -5770,5 +5770,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:19.091951"
+  },
+  {
+    "rule_id": "R-24304",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.94,
+    "timestamp": "2026-03-26T00:59:19.247892"
   }
 ]
