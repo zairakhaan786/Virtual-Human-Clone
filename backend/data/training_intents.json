@@ -2318,5 +2318,10 @@
     "intent_id": "INT-62582",
     "utterance": "How to style a denim jacket for Autumn if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-30572",
+    "utterance": "How to style a silk blouse for Summer if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
