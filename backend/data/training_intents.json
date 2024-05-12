@@ -2323,5 +2323,10 @@
     "intent_id": "INT-30572",
     "utterance": "How to style a silk blouse for Summer if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-44832",
+    "utterance": "How to style a silk blouse for Summer if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
