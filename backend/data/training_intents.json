@@ -2328,5 +2328,10 @@
     "intent_id": "INT-44832",
     "utterance": "How to style a silk blouse for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40652",
+    "utterance": "What should I wear to a business event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
