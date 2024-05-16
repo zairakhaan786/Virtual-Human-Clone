@@ -2338,5 +2338,10 @@
     "intent_id": "INT-26080",
     "utterance": "Recommend a business outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-90972",
+    "utterance": "How to style a sneakers for Autumn if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
