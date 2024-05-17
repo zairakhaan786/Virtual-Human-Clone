@@ -5874,5 +5874,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:19.685110"
+  },
+  {
+    "rule_id": "R-1644",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:19.763717"
   }
 ]
