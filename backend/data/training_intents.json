@@ -2348,5 +2348,10 @@
     "intent_id": "INT-57907",
     "utterance": "Is #F1C40F too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-7317",
+    "utterance": "Recommend a vintage outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
