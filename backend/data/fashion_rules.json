@@ -5887,5 +5887,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:19.763717"
+  },
+  {
+    "rule_id": "R-99866",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:19.840838"
   }
 ]
