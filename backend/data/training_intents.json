@@ -2353,5 +2353,10 @@
     "intent_id": "INT-7317",
     "utterance": "Recommend a vintage outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28374",
+    "utterance": "Recommend a formal outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
