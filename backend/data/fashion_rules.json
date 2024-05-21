@@ -5900,5 +5900,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:59:19.840838"
+  },
+  {
+    "rule_id": "R-95919",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.65,
+    "timestamp": "2026-03-26T00:59:19.880608"
   }
 ]
