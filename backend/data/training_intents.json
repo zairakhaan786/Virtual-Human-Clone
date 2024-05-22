@@ -2358,5 +2358,10 @@
     "intent_id": "INT-28374",
     "utterance": "Recommend a formal outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-31828",
+    "utterance": "I have an inverted_triangle body type, do #E74C3C trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
