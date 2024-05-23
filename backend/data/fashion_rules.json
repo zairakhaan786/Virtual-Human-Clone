@@ -5965,5 +5965,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T00:59:20.077468"
+  },
+  {
+    "rule_id": "R-15236",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.86,
+    "timestamp": "2026-03-26T00:59:20.156752"
   }
 ]
