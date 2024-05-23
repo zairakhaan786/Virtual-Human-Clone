@@ -5978,5 +5978,18 @@
     },
     "confidence_score": 0.86,
     "timestamp": "2026-03-26T00:59:20.156752"
+  },
+  {
+    "rule_id": "R-40704",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:20.235524"
   }
 ]
