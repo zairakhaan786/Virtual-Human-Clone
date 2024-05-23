@@ -2368,5 +2368,10 @@
     "intent_id": "INT-91566",
     "utterance": "Recommend a formal outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-11593",
+    "utterance": "What should I wear to a business event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
