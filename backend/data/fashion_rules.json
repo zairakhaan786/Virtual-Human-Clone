@@ -5991,5 +5991,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:20.235524"
+  },
+  {
+    "rule_id": "R-69173",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:20.312985"
   }
 ]
