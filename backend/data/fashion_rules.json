@@ -6017,5 +6017,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:59:20.390715"
+  },
+  {
+    "rule_id": "R-90974",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:59:20.582005"
   }
 ]
