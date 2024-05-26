@@ -2393,5 +2393,10 @@
     "intent_id": "INT-39930",
     "utterance": "Is #F1C40F too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26854",
+    "utterance": "Is #FF5733 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
