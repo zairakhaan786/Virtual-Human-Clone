@@ -2398,5 +2398,10 @@
     "intent_id": "INT-26854",
     "utterance": "Is #FF5733 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-17945",
+    "utterance": "What should I wear to a avant-garde event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
