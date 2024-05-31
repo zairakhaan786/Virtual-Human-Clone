@@ -2423,5 +2423,10 @@
     "intent_id": "INT-36410",
     "utterance": "Is #1ABC9C too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71197",
+    "utterance": "Recommend a business outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
