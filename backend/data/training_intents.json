@@ -2438,5 +2438,10 @@
     "intent_id": "INT-24919",
     "utterance": "Recommend a athleisure outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64329",
+    "utterance": "I have an pear body type, do #2C3E50 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
