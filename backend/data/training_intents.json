@@ -2443,5 +2443,10 @@
     "intent_id": "INT-64329",
     "utterance": "I have an pear body type, do #2C3E50 sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-84730",
+    "utterance": "How to style a chinos for Spring if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
