@@ -6160,5 +6160,18 @@
     },
     "confidence_score": 0.84,
     "timestamp": "2026-03-26T00:59:21.296240"
+  },
+  {
+    "rule_id": "R-64949",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T00:59:21.414457"
   }
 ]
