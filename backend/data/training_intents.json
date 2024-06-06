@@ -2453,5 +2453,10 @@
     "intent_id": "INT-34259",
     "utterance": "How to style a turtleneck for Summer if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22502",
+    "utterance": "How to style a silk blouse for Summer if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
