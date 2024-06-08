@@ -2458,5 +2458,10 @@
     "intent_id": "INT-22502",
     "utterance": "How to style a silk blouse for Summer if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-75075",
+    "utterance": "I have an inverted_triangle body type, do #F1C40F pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
