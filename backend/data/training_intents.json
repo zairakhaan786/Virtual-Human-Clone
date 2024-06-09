@@ -2468,5 +2468,10 @@
     "intent_id": "INT-17870",
     "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-27441",
+    "utterance": "Is #1ABC9C too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
