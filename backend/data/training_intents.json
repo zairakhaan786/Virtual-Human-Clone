@@ -2473,5 +2473,10 @@
     "intent_id": "INT-27441",
     "utterance": "Is #1ABC9C too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-10568",
+    "utterance": "I have an hourglass body type, do #9B59B6 silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
