@@ -2508,5 +2508,10 @@
     "intent_id": "INT-37049",
     "utterance": "How to style a chinos for Winter if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43527",
+    "utterance": "I have an endomorph body type, do #FF5733 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
