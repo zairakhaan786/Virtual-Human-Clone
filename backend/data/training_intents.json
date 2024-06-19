@@ -2513,5 +2513,10 @@
     "intent_id": "INT-43527",
     "utterance": "I have an endomorph body type, do #FF5733 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-54138",
+    "utterance": "Recommend a formal outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
