@@ -6342,5 +6342,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:22.508962"
+  },
+  {
+    "rule_id": "R-86896",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:22.550609"
   }
 ]
