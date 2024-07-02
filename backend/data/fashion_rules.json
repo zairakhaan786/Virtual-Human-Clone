@@ -6446,5 +6446,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T00:59:23.023830"
+  },
+  {
+    "rule_id": "R-73393",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:59:23.063567"
   }
 ]
