@@ -2553,5 +2553,10 @@
     "intent_id": "INT-34733",
     "utterance": "What should I wear to a business event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71964",
+    "utterance": "I have an endomorph body type, do #8E44AD turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
