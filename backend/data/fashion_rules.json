@@ -6498,5 +6498,18 @@
     },
     "confidence_score": 0.85,
     "timestamp": "2026-03-26T00:59:23.310079"
+  },
+  {
+    "rule_id": "R-21336",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:23.351129"
   }
 ]
