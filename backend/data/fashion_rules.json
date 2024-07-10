@@ -6563,5 +6563,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:59:23.670826"
+  },
+  {
+    "rule_id": "R-35388",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:59:23.711372"
   }
 ]
