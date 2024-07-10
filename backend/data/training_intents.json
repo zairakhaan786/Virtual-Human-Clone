@@ -2578,5 +2578,10 @@
     "intent_id": "INT-47517",
     "utterance": "What should I wear to a athleisure event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71664",
+    "utterance": "How to style a denim jacket for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
