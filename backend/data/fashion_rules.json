@@ -6628,5 +6628,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T00:59:23.912372"
+  },
+  {
+    "rule_id": "R-31334",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:24.030457"
   }
 ]
