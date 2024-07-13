@@ -6641,5 +6641,18 @@
     },
     "confidence_score": 0.71,
     "timestamp": "2026-03-26T00:59:24.030457"
+  },
+  {
+    "rule_id": "R-28632",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.68,
+    "timestamp": "2026-03-26T00:59:24.108675"
   }
 ]
