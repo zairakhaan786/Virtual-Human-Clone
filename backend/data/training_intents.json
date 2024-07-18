@@ -2633,5 +2633,10 @@
     "intent_id": "INT-55148",
     "utterance": "Is #2ECC71 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64143",
+    "utterance": "How to style a cardigan for Autumn if I am pear?",
+    "category": "fashion_advice"
   }
 ]
