@@ -2628,5 +2628,10 @@
     "intent_id": "INT-48617",
     "utterance": "Recommend a formal outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-55148",
+    "utterance": "Is #2ECC71 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
