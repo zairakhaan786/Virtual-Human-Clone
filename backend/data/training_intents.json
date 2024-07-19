@@ -2638,5 +2638,10 @@
     "intent_id": "INT-64143",
     "utterance": "How to style a cardigan for Autumn if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28778",
+    "utterance": "I have an mesomorph body type, do #FF5733 chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
