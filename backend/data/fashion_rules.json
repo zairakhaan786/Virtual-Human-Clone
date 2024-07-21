@@ -6706,5 +6706,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:59:24.580812"
+  },
+  {
+    "rule_id": "R-66010",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.67,
+    "timestamp": "2026-03-26T00:59:24.696998"
   }
 ]
