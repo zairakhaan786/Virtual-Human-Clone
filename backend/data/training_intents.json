@@ -2648,5 +2648,10 @@
     "intent_id": "INT-67053",
     "utterance": "Recommend a casual outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-97937",
+    "utterance": "I have an ectomorph body type, do #2C3E50 turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
