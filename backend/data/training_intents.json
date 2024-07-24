@@ -2658,5 +2658,10 @@
     "intent_id": "INT-16109",
     "utterance": "Recommend a vintage outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29132",
+    "utterance": "I have an pear body type, do #1ABC9C silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
