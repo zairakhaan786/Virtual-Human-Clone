@@ -2668,5 +2668,10 @@
     "intent_id": "INT-65716",
     "utterance": "How to style a cardigan for Spring if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34131",
+    "utterance": "Is #1ABC9C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
