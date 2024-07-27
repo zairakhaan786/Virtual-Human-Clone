@@ -2698,5 +2698,10 @@
     "intent_id": "INT-86229",
     "utterance": "Is #E67E22 too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-96081",
+    "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
