@@ -2703,5 +2703,10 @@
     "intent_id": "INT-96081",
     "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38757",
+    "utterance": "I have an apple body type, do #FF5733 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
