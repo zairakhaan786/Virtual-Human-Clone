@@ -6758,5 +6758,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:59:25.118766"
+  },
+  {
+    "rule_id": "R-69660",
+    "condition": {
+      "body_type": "apple",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T00:59:25.275377"
   }
 ]
