@@ -2708,5 +2708,10 @@
     "intent_id": "INT-38757",
     "utterance": "I have an apple body type, do #FF5733 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-88593",
+    "utterance": "What should I wear to a vintage event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
