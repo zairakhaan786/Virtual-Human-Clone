@@ -6862,5 +6862,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T00:59:25.643704"
+  },
+  {
+    "rule_id": "R-73905",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:59:25.686648"
   }
 ]
