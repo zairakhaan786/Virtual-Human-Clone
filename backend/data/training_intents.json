@@ -2748,5 +2748,10 @@
     "intent_id": "INT-66926",
     "utterance": "Is #3357FF too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83346",
+    "utterance": "I have an pear body type, do #E74C3C pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
