@@ -6979,5 +6979,18 @@
     },
     "confidence_score": 0.77,
     "timestamp": "2026-03-26T00:59:26.323681"
+  },
+  {
+    "rule_id": "R-73987",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.69,
+    "timestamp": "2026-03-26T00:59:26.364270"
   }
 ]
