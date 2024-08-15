@@ -7018,5 +7018,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T00:59:26.495403"
+  },
+  {
+    "rule_id": "R-28368",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:26.545215"
   }
 ]
