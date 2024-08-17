@@ -2768,5 +2768,10 @@
     "intent_id": "INT-99765",
     "utterance": "I have an endomorph body type, do #2ECC71 pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-79729",
+    "utterance": "Is #9B59B6 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
