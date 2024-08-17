@@ -2773,5 +2773,10 @@
     "intent_id": "INT-79729",
     "utterance": "Is #9B59B6 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-61013",
+    "utterance": "I have an mesomorph body type, do #3357FF oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
