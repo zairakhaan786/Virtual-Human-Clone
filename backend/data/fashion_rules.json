@@ -7044,5 +7044,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:59:26.624100"
+  },
+  {
+    "rule_id": "R-51133",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:26.781689"
   }
 ]
