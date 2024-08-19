@@ -2778,5 +2778,10 @@
     "intent_id": "INT-61013",
     "utterance": "I have an mesomorph body type, do #3357FF oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13195",
+    "utterance": "Recommend a minimalist outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
