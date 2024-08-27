@@ -7174,5 +7174,18 @@
     },
     "confidence_score": 0.84,
     "timestamp": "2026-03-26T00:59:27.348563"
+  },
+  {
+    "rule_id": "R-39101",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:27.540725"
   }
 ]
