@@ -2833,5 +2833,10 @@
     "intent_id": "INT-59687",
     "utterance": "How to style a denim jacket for Summer if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-14241",
+    "utterance": "Is #F1C40F too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
