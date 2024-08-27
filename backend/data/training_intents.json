@@ -2823,5 +2823,10 @@
     "intent_id": "INT-58362",
     "utterance": "I have an apple body type, do #2ECC71 pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-24029",
+    "utterance": "How to style a denim jacket for Autumn if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
