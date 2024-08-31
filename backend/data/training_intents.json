@@ -2848,5 +2848,10 @@
     "intent_id": "INT-44221",
     "utterance": "I have an mesomorph body type, do #2ECC71 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18070",
+    "utterance": "Recommend a athleisure outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
