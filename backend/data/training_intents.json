@@ -2858,5 +2858,10 @@
     "intent_id": "INT-51166",
     "utterance": "How to style a chinos for Summer if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-79295",
+    "utterance": "How to style a chinos for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
