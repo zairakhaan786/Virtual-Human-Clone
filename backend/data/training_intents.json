@@ -2873,5 +2873,10 @@
     "intent_id": "INT-24495",
     "utterance": "How to style a denim jacket for Winter if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-53949",
+    "utterance": "Recommend a streetwear outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
