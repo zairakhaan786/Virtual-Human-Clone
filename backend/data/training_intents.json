@@ -2883,5 +2883,10 @@
     "intent_id": "INT-52439",
     "utterance": "Is #2C3E50 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3246",
+    "utterance": "I have an hourglass body type, do #E67E22 denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
