@@ -2878,5 +2878,10 @@
     "intent_id": "INT-53949",
     "utterance": "Recommend a streetwear outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-52439",
+    "utterance": "Is #2C3E50 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
