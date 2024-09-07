@@ -7226,5 +7226,18 @@
     },
     "confidence_score": 0.65,
     "timestamp": "2026-03-26T00:59:27.972035"
+  },
+  {
+    "rule_id": "R-53155",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:28.328052"
   }
 ]
