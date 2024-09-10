@@ -2903,5 +2903,10 @@
     "intent_id": "INT-46105",
     "utterance": "Recommend a avant-garde outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-91052",
+    "utterance": "Is #1ABC9C too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
