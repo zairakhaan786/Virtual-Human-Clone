@@ -7265,5 +7265,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T00:59:28.409728"
+  },
+  {
+    "rule_id": "R-63173",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.87,
+    "timestamp": "2026-03-26T00:59:28.528703"
   }
 ]
