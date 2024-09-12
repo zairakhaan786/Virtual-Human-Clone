@@ -2913,5 +2913,10 @@
     "intent_id": "INT-89997",
     "utterance": "Recommend a athleisure outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57767",
+    "utterance": "I have an mesomorph body type, do #2C3E50 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
