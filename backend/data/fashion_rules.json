@@ -7304,5 +7304,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:59:28.610786"
+  },
+  {
+    "rule_id": "R-60652",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T00:59:28.652300"
   }
 ]
