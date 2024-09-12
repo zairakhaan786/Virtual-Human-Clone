@@ -2908,5 +2908,10 @@
     "intent_id": "INT-91052",
     "utterance": "Is #1ABC9C too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-89997",
+    "utterance": "Recommend a athleisure outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
