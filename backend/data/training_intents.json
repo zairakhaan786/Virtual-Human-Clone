@@ -2918,5 +2918,10 @@
     "intent_id": "INT-57767",
     "utterance": "I have an mesomorph body type, do #2C3E50 sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-36249",
+    "utterance": "Recommend a vintage outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
