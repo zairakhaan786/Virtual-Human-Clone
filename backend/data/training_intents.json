@@ -2933,5 +2933,10 @@
     "intent_id": "INT-50649",
     "utterance": "Is #2ECC71 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87527",
+    "utterance": "Recommend a formal outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
