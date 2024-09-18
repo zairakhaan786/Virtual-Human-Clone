@@ -2938,5 +2938,10 @@
     "intent_id": "INT-87527",
     "utterance": "Recommend a formal outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67101",
+    "utterance": "I have an hourglass body type, do #F1C40F oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
