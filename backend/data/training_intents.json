@@ -2953,5 +2953,10 @@
     "intent_id": "INT-92829",
     "utterance": "What should I wear to a casual event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16044",
+    "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
