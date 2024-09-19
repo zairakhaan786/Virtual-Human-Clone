@@ -7369,5 +7369,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:59:29.045214"
+  },
+  {
+    "rule_id": "R-46692",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:29.202264"
   }
 ]
