@@ -2948,5 +2948,10 @@
     "intent_id": "INT-94872",
     "utterance": "I have an hourglass body type, do #9B59B6 sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-92829",
+    "utterance": "What should I wear to a casual event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
