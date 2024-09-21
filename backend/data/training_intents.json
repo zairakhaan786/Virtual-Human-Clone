@@ -2958,5 +2958,10 @@
     "intent_id": "INT-16044",
     "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-51248",
+    "utterance": "What should I wear to a athleisure event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
