@@ -2963,5 +2963,10 @@
     "intent_id": "INT-51248",
     "utterance": "What should I wear to a athleisure event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-74589",
+    "utterance": "I have an hourglass body type, do #8E44AD cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
