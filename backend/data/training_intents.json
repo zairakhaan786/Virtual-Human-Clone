@@ -3008,5 +3008,10 @@
     "intent_id": "INT-84792",
     "utterance": "Recommend a streetwear outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-51812",
+    "utterance": "Is #F1C40F too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
