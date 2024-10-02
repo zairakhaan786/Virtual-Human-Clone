@@ -3003,5 +3003,10 @@
     "intent_id": "INT-82928",
     "utterance": "How to style a sneakers for Autumn if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-84792",
+    "utterance": "Recommend a streetwear outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
