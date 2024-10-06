@@ -3018,5 +3018,10 @@
     "intent_id": "INT-70922",
     "utterance": "Is #33FF57 too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72613",
+    "utterance": "Is #2ECC71 too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
