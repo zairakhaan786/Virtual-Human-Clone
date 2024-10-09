@@ -7629,5 +7629,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:59:30.720349"
+  },
+  {
+    "rule_id": "R-26601",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:59:30.766510"
   }
 ]
