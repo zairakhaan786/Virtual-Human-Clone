@@ -7668,5 +7668,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:30.851674"
+  },
+  {
+    "rule_id": "R-95502",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:30.899715"
   }
 ]
