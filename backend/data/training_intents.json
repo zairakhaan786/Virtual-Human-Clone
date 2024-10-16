@@ -3058,5 +3058,10 @@
     "intent_id": "INT-69784",
     "utterance": "Is #8E44AD too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-73591",
+    "utterance": "I have an endomorph body type, do #2C3E50 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
