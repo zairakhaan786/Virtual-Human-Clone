@@ -3053,5 +3053,10 @@
     "intent_id": "INT-94770",
     "utterance": "How to style a denim jacket for Autumn if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-69784",
+    "utterance": "Is #8E44AD too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
