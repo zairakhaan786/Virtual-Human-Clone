@@ -3068,5 +3068,10 @@
     "intent_id": "INT-82868",
     "utterance": "Is #9B59B6 too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18420",
+    "utterance": "Is #3357FF too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
