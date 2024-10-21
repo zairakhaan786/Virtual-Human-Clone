@@ -3078,5 +3078,10 @@
     "intent_id": "INT-78925",
     "utterance": "What should I wear to a formal event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-62289",
+    "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
