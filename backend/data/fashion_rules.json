@@ -7798,5 +7798,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:59:31.630577"
+  },
+  {
+    "rule_id": "R-24607",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:31.751843"
   }
 ]
