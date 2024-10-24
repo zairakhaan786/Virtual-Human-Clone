@@ -3088,5 +3088,10 @@
     "intent_id": "INT-45961",
     "utterance": "How to style a cardigan for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-48734",
+    "utterance": "Recommend a avant-garde outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
