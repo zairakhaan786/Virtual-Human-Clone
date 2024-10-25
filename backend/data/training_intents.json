@@ -3093,5 +3093,10 @@
     "intent_id": "INT-48734",
     "utterance": "Recommend a avant-garde outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-14849",
+    "utterance": "I have an ectomorph body type, do #3498DB cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
