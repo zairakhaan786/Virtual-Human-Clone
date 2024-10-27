@@ -3098,5 +3098,10 @@
     "intent_id": "INT-14849",
     "utterance": "I have an ectomorph body type, do #3498DB cardigans suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28810",
+    "utterance": "What should I wear to a casual event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
