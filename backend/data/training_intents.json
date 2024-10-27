@@ -3103,5 +3103,10 @@
     "intent_id": "INT-28810",
     "utterance": "What should I wear to a casual event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34261",
+    "utterance": "How to style a cardigan for Summer if I am pear?",
+    "category": "fashion_advice"
   }
 ]
