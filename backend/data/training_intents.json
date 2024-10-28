@@ -3113,5 +3113,10 @@
     "intent_id": "INT-24834",
     "utterance": "I have an mesomorph body type, do #3498DB chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-21242",
+    "utterance": "I have an ectomorph body type, do #33FF57 turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
