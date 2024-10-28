@@ -7824,5 +7824,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:31.793647"
+  },
+  {
+    "rule_id": "R-91815",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:59:31.993545"
   }
 ]
