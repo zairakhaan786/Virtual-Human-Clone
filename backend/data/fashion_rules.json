@@ -7837,5 +7837,18 @@
     },
     "confidence_score": 0.8,
     "timestamp": "2026-03-26T00:59:31.993545"
+  },
+  {
+    "rule_id": "R-52672",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T00:59:32.074555"
   }
 ]
