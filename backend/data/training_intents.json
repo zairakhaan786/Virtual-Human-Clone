@@ -3118,5 +3118,10 @@
     "intent_id": "INT-21242",
     "utterance": "I have an ectomorph body type, do #33FF57 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16360",
+    "utterance": "Recommend a minimalist outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
