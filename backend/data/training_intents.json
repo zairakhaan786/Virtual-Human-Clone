@@ -3133,5 +3133,10 @@
     "intent_id": "INT-38554",
     "utterance": "I have an endomorph body type, do #FF5733 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-27799",
+    "utterance": "I have an ectomorph body type, do #3357FF pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
