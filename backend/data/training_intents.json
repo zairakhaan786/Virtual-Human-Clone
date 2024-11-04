@@ -3138,5 +3138,10 @@
     "intent_id": "INT-27799",
     "utterance": "I have an ectomorph body type, do #3357FF pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42098",
+    "utterance": "Is #9B59B6 too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
