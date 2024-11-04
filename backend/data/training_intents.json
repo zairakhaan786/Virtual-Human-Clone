@@ -3143,5 +3143,10 @@
     "intent_id": "INT-42098",
     "utterance": "Is #9B59B6 too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70888",
+    "utterance": "Recommend a casual outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
