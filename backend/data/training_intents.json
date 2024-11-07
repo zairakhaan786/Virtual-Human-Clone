@@ -3153,5 +3153,10 @@
     "intent_id": "INT-89697",
     "utterance": "Recommend a vintage outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-77423",
+    "utterance": "I have an apple body type, do #2C3E50 pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
