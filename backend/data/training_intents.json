@@ -3168,5 +3168,10 @@
     "intent_id": "INT-51213",
     "utterance": "Recommend a avant-garde outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87053",
+    "utterance": "What should I wear to a athleisure event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
