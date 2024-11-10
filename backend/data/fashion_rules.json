@@ -7941,5 +7941,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:32.721223"
+  },
+  {
+    "rule_id": "R-99272",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:32.842367"
   }
 ]
