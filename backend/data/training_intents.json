@@ -3178,5 +3178,10 @@
     "intent_id": "INT-33009",
     "utterance": "Recommend a athleisure outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-62348",
+    "utterance": "I have an endomorph body type, do #E67E22 cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
