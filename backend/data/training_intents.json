@@ -3218,5 +3218,10 @@
     "intent_id": "INT-79797",
     "utterance": "How to style a oxford shoes for Spring if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3953",
+    "utterance": "Is #8E44AD too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
