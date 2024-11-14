@@ -3203,5 +3203,10 @@
     "intent_id": "INT-77970",
     "utterance": "What should I wear to a formal event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47218",
+    "utterance": "Recommend a vintage outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
