@@ -3223,5 +3223,10 @@
     "intent_id": "INT-3953",
     "utterance": "Is #8E44AD too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-9295",
+    "utterance": "What should I wear to a avant-garde event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
