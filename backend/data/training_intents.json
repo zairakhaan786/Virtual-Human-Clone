@@ -3228,5 +3228,10 @@
     "intent_id": "INT-9295",
     "utterance": "What should I wear to a avant-garde event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20040",
+    "utterance": "I have an ectomorph body type, do #E74C3C oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
