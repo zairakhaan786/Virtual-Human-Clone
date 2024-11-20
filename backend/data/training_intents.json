@@ -3243,5 +3243,10 @@
     "intent_id": "INT-91699",
     "utterance": "How to style a cardigan for Winter if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38848",
+    "utterance": "Recommend a minimalist outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
