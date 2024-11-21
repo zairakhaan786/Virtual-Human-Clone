@@ -3253,5 +3253,10 @@
     "intent_id": "INT-8676",
     "utterance": "Recommend a vintage outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87193",
+    "utterance": "I have an endomorph body type, do #2ECC71 sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
