@@ -8058,5 +8058,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:59:33.891687"
+  },
+  {
+    "rule_id": "R-64701",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T00:59:33.938177"
   }
 ]
