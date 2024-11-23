@@ -8032,5 +8032,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:59:33.795756"
+  },
+  {
+    "rule_id": "R-18804",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:33.845370"
   }
 ]
