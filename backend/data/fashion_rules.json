@@ -8084,5 +8084,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T00:59:34.027117"
+  },
+  {
+    "rule_id": "R-60293",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:34.075165"
   }
 ]
