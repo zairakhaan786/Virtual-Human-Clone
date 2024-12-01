@@ -3263,5 +3263,10 @@
     "intent_id": "INT-77391",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-12229",
+    "utterance": "Recommend a formal outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
