@@ -3268,5 +3268,10 @@
     "intent_id": "INT-12229",
     "utterance": "Recommend a formal outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-41539",
+    "utterance": "How to style a sneakers for Winter if I am apple?",
+    "category": "fashion_advice"
   }
 ]
