@@ -8136,5 +8136,18 @@
     },
     "confidence_score": 0.84,
     "timestamp": "2026-03-26T00:59:34.355060"
+  },
+  {
+    "rule_id": "R-54217",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:34.400224"
   }
 ]
