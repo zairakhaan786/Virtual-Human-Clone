@@ -3278,5 +3278,10 @@
     "intent_id": "INT-84271",
     "utterance": "I have an apple body type, do #E67E22 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38633",
+    "utterance": "How to style a trench coat for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
