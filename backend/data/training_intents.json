@@ -3283,5 +3283,10 @@
     "intent_id": "INT-38633",
     "utterance": "How to style a trench coat for Winter if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-4827",
+    "utterance": "What should I wear to a streetwear event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
