@@ -3288,5 +3288,10 @@
     "intent_id": "INT-4827",
     "utterance": "What should I wear to a streetwear event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71577",
+    "utterance": "Recommend a vintage outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
