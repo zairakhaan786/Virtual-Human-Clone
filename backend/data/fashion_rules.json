@@ -8201,5 +8201,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T00:59:34.709653"
+  },
+  {
+    "rule_id": "R-84530",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.68,
+    "timestamp": "2026-03-26T00:59:34.754328"
   }
 ]
