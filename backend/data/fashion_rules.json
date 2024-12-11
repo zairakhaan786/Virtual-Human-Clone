@@ -8227,5 +8227,18 @@
     },
     "confidence_score": 0.65,
     "timestamp": "2026-03-26T00:59:34.875495"
+  },
+  {
+    "rule_id": "R-93526",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.77,
+    "timestamp": "2026-03-26T00:59:34.957842"
   }
 ]
