@@ -3308,5 +3308,10 @@
     "intent_id": "INT-15923",
     "utterance": "How to style a chinos for Winter if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29473",
+    "utterance": "What should I wear to a casual event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
