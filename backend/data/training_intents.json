@@ -3318,5 +3318,10 @@
     "intent_id": "INT-52423",
     "utterance": "Recommend a casual outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16146",
+    "utterance": "Recommend a business outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
