@@ -3313,5 +3313,10 @@
     "intent_id": "INT-29473",
     "utterance": "What should I wear to a casual event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-52423",
+    "utterance": "Recommend a casual outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
