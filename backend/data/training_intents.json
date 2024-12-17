@@ -3333,5 +3333,10 @@
     "intent_id": "INT-90435",
     "utterance": "I have an pear body type, do #FF5733 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18030",
+    "utterance": "How to style a denim jacket for Autumn if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
