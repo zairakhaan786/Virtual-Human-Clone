@@ -3338,5 +3338,10 @@
     "intent_id": "INT-18030",
     "utterance": "How to style a denim jacket for Autumn if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-75948",
+    "utterance": "What should I wear to a vintage event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
