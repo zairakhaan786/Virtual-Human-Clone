@@ -3343,5 +3343,10 @@
     "intent_id": "INT-75948",
     "utterance": "What should I wear to a vintage event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-72592",
+    "utterance": "I have an ectomorph body type, do #8E44AD blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
