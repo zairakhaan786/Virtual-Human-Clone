@@ -8318,5 +8318,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:35.642482"
+  },
+  {
+    "rule_id": "R-83112",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T00:59:35.728088"
   }
 ]
