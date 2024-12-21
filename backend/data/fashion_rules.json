@@ -8305,5 +8305,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:59:35.598532"
+  },
+  {
+    "rule_id": "R-33625",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:59:35.642482"
   }
 ]
