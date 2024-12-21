@@ -3358,5 +3358,10 @@
     "intent_id": "INT-68841",
     "utterance": "I have an ectomorph body type, do #E74C3C blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20711",
+    "utterance": "I have an ectomorph body type, do #3498DB silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
