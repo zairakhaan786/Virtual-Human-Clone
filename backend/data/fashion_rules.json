@@ -8292,5 +8292,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T00:59:35.475091"
+  },
+  {
+    "rule_id": "R-95126",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:35.598532"
   }
 ]
