@@ -3363,5 +3363,10 @@
     "intent_id": "INT-20711",
     "utterance": "I have an ectomorph body type, do #3498DB silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-44420",
+    "utterance": "What should I wear to a casual event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
