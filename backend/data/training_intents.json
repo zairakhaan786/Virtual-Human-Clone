@@ -3378,5 +3378,10 @@
     "intent_id": "INT-18033",
     "utterance": "I have an inverted_triangle body type, do #FF5733 sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-8912",
+    "utterance": "What should I wear to a minimalist event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
