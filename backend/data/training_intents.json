@@ -3383,5 +3383,10 @@
     "intent_id": "INT-8912",
     "utterance": "What should I wear to a minimalist event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-37678",
+    "utterance": "Recommend a streetwear outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
