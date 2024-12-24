@@ -3388,5 +3388,10 @@
     "intent_id": "INT-37678",
     "utterance": "Recommend a streetwear outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-88113",
+    "utterance": "What should I wear to a streetwear event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
