@@ -3398,5 +3398,10 @@
     "intent_id": "INT-31964",
     "utterance": "Recommend a vintage outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-63315",
+    "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
+    "category": "fashion_advice"
   }
 ]
