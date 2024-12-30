@@ -8396,5 +8396,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:59:36.265557"
+  },
+  {
+    "rule_id": "R-17849",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.69,
+    "timestamp": "2026-03-26T00:59:36.587608"
   }
 ]
