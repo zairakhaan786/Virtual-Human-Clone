@@ -3433,5 +3433,10 @@
     "intent_id": "INT-35175",
     "utterance": "How to style a blazer for Winter if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43917",
+    "utterance": "Is #2ECC71 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
