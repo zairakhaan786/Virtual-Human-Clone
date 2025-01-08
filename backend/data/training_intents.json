@@ -3448,5 +3448,10 @@
     "intent_id": "INT-37612",
     "utterance": "I have an hourglass body type, do #9B59B6 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29663",
+    "utterance": "How to style a pleated skirt for Summer if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
