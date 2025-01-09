@@ -8500,5 +8500,18 @@
     },
     "confidence_score": 0.87,
     "timestamp": "2026-03-26T00:59:37.324243"
+  },
+  {
+    "rule_id": "R-46308",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.94,
+    "timestamp": "2026-03-26T00:59:37.369857"
   }
 ]
