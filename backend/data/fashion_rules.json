@@ -8526,5 +8526,18 @@
     },
     "confidence_score": 0.8,
     "timestamp": "2026-03-26T00:59:37.414332"
+  },
+  {
+    "rule_id": "R-81515",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.84,
+    "timestamp": "2026-03-26T00:59:37.537888"
   }
 ]
