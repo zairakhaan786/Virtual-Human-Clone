@@ -3468,5 +3468,10 @@
     "intent_id": "INT-15623",
     "utterance": "Is #3357FF too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29383",
+    "utterance": "Is #9B59B6 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
