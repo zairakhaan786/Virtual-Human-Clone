@@ -8565,5 +8565,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T00:59:37.763700"
+  },
+  {
+    "rule_id": "R-35581",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.98,
+    "timestamp": "2026-03-26T00:59:37.812215"
   }
 ]
