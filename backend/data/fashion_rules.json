@@ -8578,5 +8578,18 @@
     },
     "confidence_score": 0.98,
     "timestamp": "2026-03-26T00:59:37.812215"
+  },
+  {
+    "rule_id": "R-56644",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T00:59:37.859091"
   }
 ]
