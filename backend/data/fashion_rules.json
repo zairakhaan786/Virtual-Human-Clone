@@ -8617,5 +8617,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:59:37.992605"
+  },
+  {
+    "rule_id": "R-23795",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.7,
+    "timestamp": "2026-03-26T00:59:38.075159"
   }
 ]
