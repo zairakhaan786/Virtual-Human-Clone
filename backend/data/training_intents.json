@@ -3493,5 +3493,10 @@
     "intent_id": "INT-65604",
     "utterance": "I have an hourglass body type, do #E67E22 cardigans suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-73032",
+    "utterance": "Recommend a athleisure outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
