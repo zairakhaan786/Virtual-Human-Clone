@@ -8669,5 +8669,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T00:59:38.318570"
+  },
+  {
+    "rule_id": "R-69280",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.66,
+    "timestamp": "2026-03-26T00:59:38.360379"
   }
 ]
