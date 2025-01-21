@@ -3503,5 +3503,10 @@
     "intent_id": "INT-94502",
     "utterance": "I have an ectomorph body type, do #2C3E50 silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-8717",
+    "utterance": "Is #1ABC9C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
