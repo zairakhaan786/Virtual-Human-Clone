@@ -3518,5 +3518,10 @@
     "intent_id": "INT-20805",
     "utterance": "What should I wear to a business event in the Spring?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-68679",
+    "utterance": "Is #3357FF too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
