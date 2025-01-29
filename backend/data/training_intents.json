@@ -3528,5 +3528,10 @@
     "intent_id": "INT-76062",
     "utterance": "Is #3498DB too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34151",
+    "utterance": "I have an inverted_triangle body type, do #3357FF chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
