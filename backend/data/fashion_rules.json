@@ -8786,5 +8786,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:38.894833"
+  },
+  {
+    "rule_id": "R-60953",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:59:38.975547"
   }
 ]
