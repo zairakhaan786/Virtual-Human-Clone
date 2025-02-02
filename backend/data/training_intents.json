@@ -3538,5 +3538,10 @@
     "intent_id": "INT-27055",
     "utterance": "How to style a denim jacket for Autumn if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-28439",
+    "utterance": "Is #3357FF too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
