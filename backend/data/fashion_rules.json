@@ -8799,5 +8799,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T00:59:38.975547"
+  },
+  {
+    "rule_id": "R-32427",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:59:39.100947"
   }
 ]
