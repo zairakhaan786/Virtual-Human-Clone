@@ -3553,5 +3553,10 @@
     "intent_id": "INT-82642",
     "utterance": "How to style a oxford shoes for Summer if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-5961",
+    "utterance": "I have an hourglass body type, do #2ECC71 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
