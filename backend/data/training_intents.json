@@ -3543,5 +3543,10 @@
     "intent_id": "INT-28439",
     "utterance": "Is #3357FF too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39335",
+    "utterance": "I have an hourglass body type, do #1ABC9C pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
