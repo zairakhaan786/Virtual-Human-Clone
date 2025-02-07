@@ -3558,5 +3558,10 @@
     "intent_id": "INT-5961",
     "utterance": "I have an hourglass body type, do #2ECC71 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13871",
+    "utterance": "Recommend a vintage outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
