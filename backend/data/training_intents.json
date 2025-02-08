@@ -3568,5 +3568,10 @@
     "intent_id": "INT-82333",
     "utterance": "How to style a turtleneck for Autumn if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-24330",
+    "utterance": "Is #F1C40F too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
