@@ -3588,5 +3588,10 @@
     "intent_id": "INT-23615",
     "utterance": "Is #3498DB too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-27960",
+    "utterance": "How to style a cardigan for Autumn if I am apple?",
+    "category": "fashion_advice"
   }
 ]
