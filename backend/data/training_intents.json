@@ -3593,5 +3593,10 @@
     "intent_id": "INT-27960",
     "utterance": "How to style a cardigan for Autumn if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26692",
+    "utterance": "How to style a turtleneck for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
