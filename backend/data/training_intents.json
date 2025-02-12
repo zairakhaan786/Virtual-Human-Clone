@@ -3603,5 +3603,10 @@
     "intent_id": "INT-92818",
     "utterance": "Recommend a vintage outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-89199",
+    "utterance": "Recommend a streetwear outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
