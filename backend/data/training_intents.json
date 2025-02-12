@@ -3598,5 +3598,10 @@
     "intent_id": "INT-26692",
     "utterance": "How to style a turtleneck for Spring if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-92818",
+    "utterance": "Recommend a vintage outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
