@@ -3623,5 +3623,10 @@
     "intent_id": "INT-87584",
     "utterance": "Is #F1C40F too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-90220",
+    "utterance": "How to style a sneakers for Spring if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
