@@ -8968,5 +8968,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:59:40.398444"
+  },
+  {
+    "rule_id": "R-1929",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:59:40.441306"
   }
 ]
