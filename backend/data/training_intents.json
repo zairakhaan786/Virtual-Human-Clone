@@ -3633,5 +3633,10 @@
     "intent_id": "INT-96268",
     "utterance": "How to style a blazer for Summer if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-6836",
+    "utterance": "I have an apple body type, do #FF5733 chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
