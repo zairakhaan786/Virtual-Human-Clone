@@ -3638,5 +3638,10 @@
     "intent_id": "INT-6836",
     "utterance": "I have an apple body type, do #FF5733 chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-55466",
+    "utterance": "How to style a sneakers for Autumn if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
