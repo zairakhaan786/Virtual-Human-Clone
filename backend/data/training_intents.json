@@ -3663,5 +3663,10 @@
     "intent_id": "INT-67763",
     "utterance": "How to style a trench coat for Summer if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-25309",
+    "utterance": "What should I wear to a streetwear event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
