@@ -3688,5 +3688,10 @@
     "intent_id": "INT-4478",
     "utterance": "Recommend a streetwear outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-73643",
+    "utterance": "Is #2ECC71 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
