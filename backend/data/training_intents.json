@@ -3683,5 +3683,10 @@
     "intent_id": "INT-78981",
     "utterance": "I have an endomorph body type, do #1ABC9C turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-4478",
+    "utterance": "Recommend a streetwear outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
