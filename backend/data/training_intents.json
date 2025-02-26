@@ -3693,5 +3693,10 @@
     "intent_id": "INT-73643",
     "utterance": "Is #2ECC71 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3957",
+    "utterance": "Recommend a athleisure outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
