@@ -3698,5 +3698,10 @@
     "intent_id": "INT-3957",
     "utterance": "Recommend a athleisure outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57383",
+    "utterance": "I have an apple body type, do #E67E22 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
