@@ -3713,5 +3713,10 @@
     "intent_id": "INT-66953",
     "utterance": "I have an apple body type, do #FF5733 blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16184",
+    "utterance": "What should I wear to a athleisure event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
