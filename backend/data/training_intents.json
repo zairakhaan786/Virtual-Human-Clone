@@ -3723,5 +3723,10 @@
     "intent_id": "INT-84919",
     "utterance": "What should I wear to a avant-garde event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87602",
+    "utterance": "What should I wear to a avant-garde event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
