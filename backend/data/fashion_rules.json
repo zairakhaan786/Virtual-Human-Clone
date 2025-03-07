@@ -9124,5 +9124,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T00:59:41.726821"
+  },
+  {
+    "rule_id": "R-92727",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:41.810008"
   }
 ]
