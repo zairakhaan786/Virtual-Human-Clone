@@ -9176,5 +9176,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:59:42.017425"
+  },
+  {
+    "rule_id": "R-35543",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T00:59:42.113495"
   }
 ]
