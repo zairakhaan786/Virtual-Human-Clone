@@ -3753,5 +3753,10 @@
     "intent_id": "INT-82799",
     "utterance": "Recommend a avant-garde outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40354",
+    "utterance": "What should I wear to a minimalist event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
