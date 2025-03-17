@@ -3778,5 +3778,10 @@
     "intent_id": "INT-94976",
     "utterance": "Recommend a casual outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-17541",
+    "utterance": "What should I wear to a avant-garde event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
