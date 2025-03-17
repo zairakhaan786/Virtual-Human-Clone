@@ -3773,5 +3773,10 @@
     "intent_id": "INT-92487",
     "utterance": "I have an mesomorph body type, do #2ECC71 chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-94976",
+    "utterance": "Recommend a casual outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
