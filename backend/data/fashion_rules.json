@@ -9215,5 +9215,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:42.369617"
+  },
+  {
+    "rule_id": "R-48665",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:42.580409"
   }
 ]
