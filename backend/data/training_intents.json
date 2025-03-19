@@ -3788,5 +3788,10 @@
     "intent_id": "INT-59860",
     "utterance": "I have an inverted_triangle body type, do #3357FF blazers suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-56124",
+    "utterance": "What should I wear to a avant-garde event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
