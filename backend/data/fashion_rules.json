@@ -9228,5 +9228,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T00:59:42.580409"
+  },
+  {
+    "rule_id": "R-45921",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T00:59:42.707367"
   }
 ]
