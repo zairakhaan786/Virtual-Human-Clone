@@ -9241,5 +9241,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:42.707367"
+  },
+  {
+    "rule_id": "R-59179",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T00:59:42.816078"
   }
 ]
