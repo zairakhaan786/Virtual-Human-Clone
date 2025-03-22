@@ -9280,5 +9280,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T00:59:42.916393"
+  },
+  {
+    "rule_id": "R-99163",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.87,
+    "timestamp": "2026-03-26T00:59:42.966401"
   }
 ]
