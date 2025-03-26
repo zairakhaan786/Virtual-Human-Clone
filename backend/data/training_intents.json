@@ -3818,5 +3818,10 @@
     "intent_id": "INT-25930",
     "utterance": "What should I wear to a casual event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-78701",
+    "utterance": "Recommend a minimalist outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
