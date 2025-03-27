@@ -9306,5 +9306,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T00:59:43.069147"
+  },
+  {
+    "rule_id": "R-31347",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:43.331767"
   }
 ]
