@@ -3838,5 +3838,10 @@
     "intent_id": "INT-71886",
     "utterance": "I have an inverted_triangle body type, do #F1C40F pleated skirts suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-77246",
+    "utterance": "Is #3357FF too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
