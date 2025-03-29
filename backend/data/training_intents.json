@@ -3833,5 +3833,10 @@
     "intent_id": "INT-25019",
     "utterance": "Recommend a streetwear outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71886",
+    "utterance": "I have an inverted_triangle body type, do #F1C40F pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
