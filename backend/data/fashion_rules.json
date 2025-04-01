@@ -9358,5 +9358,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:59:43.589275"
+  },
+  {
+    "rule_id": "R-99935",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T00:59:43.865538"
   }
 ]
