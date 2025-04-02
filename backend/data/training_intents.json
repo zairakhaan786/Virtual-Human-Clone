@@ -3858,5 +3858,10 @@
     "intent_id": "INT-33392",
     "utterance": "What should I wear to a formal event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65527",
+    "utterance": "What should I wear to a vintage event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
