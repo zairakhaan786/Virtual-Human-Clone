@@ -3863,5 +3863,10 @@
     "intent_id": "INT-65527",
     "utterance": "What should I wear to a vintage event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-5089",
+    "utterance": "How to style a trench coat for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
