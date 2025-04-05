@@ -9410,5 +9410,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:44.091353"
+  },
+  {
+    "rule_id": "R-6958",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:59:44.324260"
   }
 ]
