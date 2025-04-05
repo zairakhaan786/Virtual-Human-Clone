@@ -3873,5 +3873,10 @@
     "intent_id": "INT-80953",
     "utterance": "I have an ectomorph body type, do #3498DB trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-98612",
+    "utterance": "Recommend a vintage outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
