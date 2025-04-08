@@ -9449,5 +9449,18 @@
     },
     "confidence_score": 0.92,
     "timestamp": "2026-03-26T00:59:44.479941"
+  },
+  {
+    "rule_id": "R-87901",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T00:59:44.527446"
   }
 ]
