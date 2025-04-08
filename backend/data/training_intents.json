@@ -3883,5 +3883,10 @@
     "intent_id": "INT-36974",
     "utterance": "How to style a sneakers for Autumn if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-12828",
+    "utterance": "Recommend a minimalist outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
