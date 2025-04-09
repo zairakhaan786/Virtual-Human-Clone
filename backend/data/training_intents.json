@@ -3888,5 +3888,10 @@
     "intent_id": "INT-12828",
     "utterance": "Recommend a minimalist outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-35362",
+    "utterance": "What should I wear to a formal event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
