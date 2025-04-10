@@ -3903,5 +3903,10 @@
     "intent_id": "INT-49428",
     "utterance": "How to style a pleated skirt for Spring if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47573",
+    "utterance": "Recommend a minimalist outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
