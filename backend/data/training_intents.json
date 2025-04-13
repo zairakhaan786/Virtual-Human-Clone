@@ -3918,5 +3918,10 @@
     "intent_id": "INT-2153",
     "utterance": "Recommend a avant-garde outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65136",
+    "utterance": "Is #33FF57 too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
