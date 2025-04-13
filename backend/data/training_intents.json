@@ -3913,5 +3913,10 @@
     "intent_id": "INT-36389",
     "utterance": "What should I wear to a streetwear event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-2153",
+    "utterance": "Recommend a avant-garde outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
