@@ -3923,5 +3923,10 @@
     "intent_id": "INT-65136",
     "utterance": "Is #33FF57 too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65828",
+    "utterance": "Recommend a streetwear outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
