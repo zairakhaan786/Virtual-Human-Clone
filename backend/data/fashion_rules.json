@@ -9527,5 +9527,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T00:59:45.160355"
+  },
+  {
+    "rule_id": "R-12898",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:59:45.204215"
   }
 ]
