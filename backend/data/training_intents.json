@@ -3938,5 +3938,10 @@
     "intent_id": "INT-31336",
     "utterance": "What should I wear to a vintage event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13103",
+    "utterance": "Is #E74C3C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
