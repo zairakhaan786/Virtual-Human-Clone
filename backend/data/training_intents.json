@@ -3943,5 +3943,10 @@
     "intent_id": "INT-13103",
     "utterance": "Is #E74C3C too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-19123",
+    "utterance": "I have an apple body type, do #2ECC71 turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
