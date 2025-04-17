@@ -3933,5 +3933,10 @@
     "intent_id": "INT-73751",
     "utterance": "Is #2ECC71 too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-31336",
+    "utterance": "What should I wear to a vintage event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
