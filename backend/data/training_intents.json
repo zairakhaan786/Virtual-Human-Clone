@@ -3948,5 +3948,10 @@
     "intent_id": "INT-19123",
     "utterance": "I have an apple body type, do #2ECC71 turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-85002",
+    "utterance": "Recommend a avant-garde outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
