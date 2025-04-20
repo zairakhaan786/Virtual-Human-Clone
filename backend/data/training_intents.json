@@ -3953,5 +3953,10 @@
     "intent_id": "INT-85002",
     "utterance": "Recommend a avant-garde outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-31249",
+    "utterance": "How to style a denim jacket for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
