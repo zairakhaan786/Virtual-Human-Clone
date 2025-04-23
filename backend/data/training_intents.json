@@ -3968,5 +3968,10 @@
     "intent_id": "INT-74211",
     "utterance": "Recommend a athleisure outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18884",
+    "utterance": "Recommend a streetwear outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
