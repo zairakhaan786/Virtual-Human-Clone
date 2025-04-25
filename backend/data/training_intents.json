@@ -3973,5 +3973,10 @@
     "intent_id": "INT-18884",
     "utterance": "Recommend a streetwear outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-69961",
+    "utterance": "What should I wear to a casual event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
