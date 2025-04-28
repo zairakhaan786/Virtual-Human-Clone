@@ -3988,5 +3988,10 @@
     "intent_id": "INT-66739",
     "utterance": "What should I wear to a business event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-90392",
+    "utterance": "I have an ectomorph body type, do #3357FF trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
