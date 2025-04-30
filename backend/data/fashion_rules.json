@@ -9605,5 +9605,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:45.904463"
+  },
+  {
+    "rule_id": "R-26232",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T00:59:46.031244"
   }
 ]
