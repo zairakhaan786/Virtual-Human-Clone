@@ -4013,5 +4013,10 @@
     "intent_id": "INT-49000",
     "utterance": "Recommend a casual outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-68037",
+    "utterance": "Is #E74C3C too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
