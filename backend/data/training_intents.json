@@ -4038,5 +4038,10 @@
     "intent_id": "INT-74638",
     "utterance": "I have an mesomorph body type, do #33FF57 cardigans suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43737",
+    "utterance": "Is #1ABC9C too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
