@@ -4053,5 +4053,10 @@
     "intent_id": "INT-27712",
     "utterance": "Recommend a casual outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-59476",
+    "utterance": "What should I wear to a business event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
