@@ -9722,5 +9722,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T00:59:46.889881"
+  },
+  {
+    "rule_id": "R-98481",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:59:47.012936"
   }
 ]
