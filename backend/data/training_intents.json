@@ -4068,5 +4068,10 @@
     "intent_id": "INT-9379",
     "utterance": "How to style a turtleneck for Summer if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-32516",
+    "utterance": "How to style a trench coat for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
