@@ -4078,5 +4078,10 @@
     "intent_id": "INT-5289",
     "utterance": "Is #8E44AD too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22933",
+    "utterance": "Is #3357FF too bold for a business setting?",
+    "category": "fashion_advice"
   }
 ]
