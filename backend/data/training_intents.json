@@ -4083,5 +4083,10 @@
     "intent_id": "INT-22933",
     "utterance": "Is #3357FF too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40363",
+    "utterance": "How to style a oxford shoes for Autumn if I am apple?",
+    "category": "fashion_advice"
   }
 ]
