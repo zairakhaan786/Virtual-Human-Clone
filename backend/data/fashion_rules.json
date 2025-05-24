@@ -9839,5 +9839,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:47.549731"
+  },
+  {
+    "rule_id": "R-23779",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.65,
+    "timestamp": "2026-03-26T00:59:47.593128"
   }
 ]
