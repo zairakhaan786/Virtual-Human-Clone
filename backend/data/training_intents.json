@@ -4098,5 +4098,10 @@
     "intent_id": "INT-41300",
     "utterance": "Is #FF5733 too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-80206",
+    "utterance": "I have an mesomorph body type, do #E67E22 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
