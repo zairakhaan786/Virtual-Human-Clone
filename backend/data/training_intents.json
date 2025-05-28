@@ -4108,5 +4108,10 @@
     "intent_id": "INT-60522",
     "utterance": "How to style a sneakers for Winter if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-1235",
+    "utterance": "How to style a denim jacket for Summer if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
