@@ -4113,5 +4113,10 @@
     "intent_id": "INT-1235",
     "utterance": "How to style a denim jacket for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40879",
+    "utterance": "How to style a cardigan for Summer if I am ectomorph?",
+    "category": "fashion_advice"
   }
 ]
