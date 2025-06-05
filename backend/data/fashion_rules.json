@@ -10008,5 +10008,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T00:59:48.587170"
+  },
+  {
+    "rule_id": "R-8758",
+    "condition": {
+      "body_type": "pear",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:48.713485"
   }
 ]
