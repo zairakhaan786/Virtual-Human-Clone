@@ -10073,5 +10073,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:49.059051"
+  },
+  {
+    "rule_id": "R-55273",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.86,
+    "timestamp": "2026-03-26T00:59:49.141298"
   }
 ]
