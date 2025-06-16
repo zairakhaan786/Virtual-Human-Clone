@@ -10099,5 +10099,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T00:59:49.317367"
+  },
+  {
+    "rule_id": "R-12051",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T00:59:49.362354"
   }
 ]
