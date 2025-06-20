@@ -4203,5 +4203,10 @@
     "intent_id": "INT-20703",
     "utterance": "Recommend a minimalist outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-48088",
+    "utterance": "Is #3498DB too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
