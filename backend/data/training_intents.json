@@ -4198,5 +4198,10 @@
     "intent_id": "INT-9801",
     "utterance": "I have an apple body type, do #2C3E50 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20703",
+    "utterance": "Recommend a minimalist outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
