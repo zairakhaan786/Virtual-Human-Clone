@@ -4233,5 +4233,10 @@
     "intent_id": "INT-1559",
     "utterance": "Recommend a streetwear outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-86638",
+    "utterance": "Is #8E44AD too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
