@@ -4228,5 +4228,10 @@
     "intent_id": "INT-4864",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-1559",
+    "utterance": "Recommend a streetwear outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
