@@ -4238,5 +4238,10 @@
     "intent_id": "INT-86638",
     "utterance": "Is #8E44AD too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-89231",
+    "utterance": "Recommend a vintage outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
