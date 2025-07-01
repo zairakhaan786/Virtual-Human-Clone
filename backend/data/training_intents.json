@@ -4243,5 +4243,10 @@
     "intent_id": "INT-89231",
     "utterance": "Recommend a vintage outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-80002",
+    "utterance": "Is #1ABC9C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
