@@ -4258,5 +4258,10 @@
     "intent_id": "INT-20805",
     "utterance": "Is #2C3E50 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-66626",
+    "utterance": "How to style a chinos for Winter if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
