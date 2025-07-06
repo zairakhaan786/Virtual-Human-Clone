@@ -4268,5 +4268,10 @@
     "intent_id": "INT-54117",
     "utterance": "I have an ectomorph body type, do #9B59B6 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67231",
+    "utterance": "What should I wear to a formal event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
