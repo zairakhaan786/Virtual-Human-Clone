@@ -4273,5 +4273,10 @@
     "intent_id": "INT-67231",
     "utterance": "What should I wear to a formal event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-37583",
+    "utterance": "I have an ectomorph body type, do #3357FF turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
