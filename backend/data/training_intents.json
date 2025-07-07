@@ -4278,5 +4278,10 @@
     "intent_id": "INT-37583",
     "utterance": "I have an ectomorph body type, do #3357FF turtlenecks suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64599",
+    "utterance": "Recommend a athleisure outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
