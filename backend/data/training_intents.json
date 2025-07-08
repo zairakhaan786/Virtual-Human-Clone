@@ -4283,5 +4283,10 @@
     "intent_id": "INT-64599",
     "utterance": "Recommend a athleisure outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-60578",
+    "utterance": "What should I wear to a minimalist event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
