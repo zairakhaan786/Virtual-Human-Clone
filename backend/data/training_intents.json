@@ -4293,5 +4293,10 @@
     "intent_id": "INT-41811",
     "utterance": "Recommend a vintage outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-8793",
+    "utterance": "Is #8E44AD too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
