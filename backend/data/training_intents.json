@@ -4298,5 +4298,10 @@
     "intent_id": "INT-8793",
     "utterance": "Is #8E44AD too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43615",
+    "utterance": "How to style a chinos for Summer if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
