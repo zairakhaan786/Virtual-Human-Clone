@@ -4313,5 +4313,10 @@
     "intent_id": "INT-16603",
     "utterance": "How to style a chinos for Autumn if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-62109",
+    "utterance": "How to style a pleated skirt for Winter if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
