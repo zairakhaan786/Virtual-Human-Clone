@@ -4323,5 +4323,10 @@
     "intent_id": "INT-59390",
     "utterance": "Recommend a casual outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20799",
+    "utterance": "How to style a cardigan for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
