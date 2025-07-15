@@ -4328,5 +4328,10 @@
     "intent_id": "INT-20799",
     "utterance": "How to style a cardigan for Spring if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3705",
+    "utterance": "How to style a trench coat for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
