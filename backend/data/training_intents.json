@@ -4343,5 +4343,10 @@
     "intent_id": "INT-67844",
     "utterance": "Recommend a minimalist outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83910",
+    "utterance": "I have an inverted_triangle body type, do #2C3E50 cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
