@@ -4358,5 +4358,10 @@
     "intent_id": "INT-63670",
     "utterance": "Is #F1C40F too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-49409",
+    "utterance": "Is #F1C40F too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
