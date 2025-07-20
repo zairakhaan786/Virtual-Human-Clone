@@ -10502,5 +10502,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:59:52.074401"
+  },
+  {
+    "rule_id": "R-88547",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.77,
+    "timestamp": "2026-03-26T00:59:52.320569"
   }
 ]
