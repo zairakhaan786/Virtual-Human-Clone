@@ -4373,5 +4373,10 @@
     "intent_id": "INT-14601",
     "utterance": "How to style a trench coat for Autumn if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57010",
+    "utterance": "What should I wear to a minimalist event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
