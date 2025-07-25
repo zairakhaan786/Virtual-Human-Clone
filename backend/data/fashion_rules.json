@@ -10541,5 +10541,18 @@
     },
     "confidence_score": 0.74,
     "timestamp": "2026-03-26T00:59:52.451946"
+  },
+  {
+    "rule_id": "R-43823",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T00:59:52.618158"
   }
 ]
