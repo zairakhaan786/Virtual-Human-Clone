@@ -4393,5 +4393,10 @@
     "intent_id": "INT-64894",
     "utterance": "Is #9B59B6 too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34933",
+    "utterance": "I have an ectomorph body type, do #33FF57 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
