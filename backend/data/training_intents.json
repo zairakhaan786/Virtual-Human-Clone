@@ -4408,5 +4408,10 @@
     "intent_id": "INT-37363",
     "utterance": "Is #33FF57 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-82275",
+    "utterance": "How to style a blazer for Summer if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
