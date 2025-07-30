@@ -4413,5 +4413,10 @@
     "intent_id": "INT-82275",
     "utterance": "How to style a blazer for Summer if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-98309",
+    "utterance": "I have an hourglass body type, do #FF5733 silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
