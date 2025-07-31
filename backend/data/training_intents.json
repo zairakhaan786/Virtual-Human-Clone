@@ -4423,5 +4423,10 @@
     "intent_id": "INT-45644",
     "utterance": "Is #33FF57 too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-12362",
+    "utterance": "How to style a turtleneck for Summer if I am apple?",
+    "category": "fashion_advice"
   }
 ]
