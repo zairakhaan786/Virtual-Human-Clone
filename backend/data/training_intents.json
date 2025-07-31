@@ -4418,5 +4418,10 @@
     "intent_id": "INT-98309",
     "utterance": "I have an hourglass body type, do #FF5733 silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-45644",
+    "utterance": "Is #33FF57 too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
