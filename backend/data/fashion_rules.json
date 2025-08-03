@@ -10645,5 +10645,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T00:59:53.299440"
+  },
+  {
+    "rule_id": "R-44547",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.94,
+    "timestamp": "2026-03-26T00:59:53.390041"
   }
 ]
