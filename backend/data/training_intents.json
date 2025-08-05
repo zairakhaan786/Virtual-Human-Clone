@@ -4438,5 +4438,10 @@
     "intent_id": "INT-61521",
     "utterance": "Recommend a business outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-81289",
+    "utterance": "Recommend a athleisure outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
