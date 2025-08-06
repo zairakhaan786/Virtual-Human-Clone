@@ -4443,5 +4443,10 @@
     "intent_id": "INT-81289",
     "utterance": "Recommend a athleisure outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-16871",
+    "utterance": "Is #3498DB too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
