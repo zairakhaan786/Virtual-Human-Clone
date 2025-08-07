@@ -4458,5 +4458,10 @@
     "intent_id": "INT-13304",
     "utterance": "I have an mesomorph body type, do #2C3E50 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-24351",
+    "utterance": "How to style a sneakers for Spring if I am hourglass?",
+    "category": "fashion_advice"
   }
 ]
