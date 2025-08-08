@@ -4468,5 +4468,10 @@
     "intent_id": "INT-66392",
     "utterance": "Is #FF5733 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-57595",
+    "utterance": "Recommend a casual outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
