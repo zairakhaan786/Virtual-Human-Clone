@@ -4478,5 +4478,10 @@
     "intent_id": "INT-67259",
     "utterance": "Is #9B59B6 too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-3487",
+    "utterance": "I have an hourglass body type, do #8E44AD cardigans suit me?",
+    "category": "fashion_advice"
   }
 ]
