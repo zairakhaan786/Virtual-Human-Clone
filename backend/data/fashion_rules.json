@@ -10775,5 +10775,18 @@
     },
     "confidence_score": 0.77,
     "timestamp": "2026-03-26T00:59:54.318066"
+  },
+  {
+    "rule_id": "R-32060",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T00:59:54.361212"
   }
 ]
