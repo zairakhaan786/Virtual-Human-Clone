@@ -4508,5 +4508,10 @@
     "intent_id": "INT-21516",
     "utterance": "Recommend a vintage outfit matching a cardigan.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-85462",
+    "utterance": "Recommend a athleisure outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
