@@ -4523,5 +4523,10 @@
     "intent_id": "INT-17745",
     "utterance": "I have an endomorph body type, do #8E44AD denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-78398",
+    "utterance": "Recommend a athleisure outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
