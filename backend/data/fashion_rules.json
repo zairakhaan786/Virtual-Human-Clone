@@ -10853,5 +10853,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T00:59:54.828006"
+  },
+  {
+    "rule_id": "R-2857",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T00:59:54.872103"
   }
 ]
