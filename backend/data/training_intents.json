@@ -4533,5 +4533,10 @@
     "intent_id": "INT-35015",
     "utterance": "Is #E74C3C too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-77469",
+    "utterance": "I have an endomorph body type, do #33FF57 pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
