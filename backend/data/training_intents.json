@@ -4548,5 +4548,10 @@
     "intent_id": "INT-38038",
     "utterance": "Recommend a athleisure outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-79787",
+    "utterance": "Recommend a business outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
