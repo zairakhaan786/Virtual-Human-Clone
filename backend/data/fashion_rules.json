@@ -10905,5 +10905,18 @@
     },
     "confidence_score": 0.86,
     "timestamp": "2026-03-26T00:59:55.158948"
+  },
+  {
+    "rule_id": "R-58372",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T00:59:55.202450"
   }
 ]
