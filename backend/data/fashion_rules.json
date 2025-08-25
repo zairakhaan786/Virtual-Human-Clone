@@ -10918,5 +10918,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T00:59:55.202450"
+  },
+  {
+    "rule_id": "R-71622",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.76,
+    "timestamp": "2026-03-26T00:59:55.365794"
   }
 ]
