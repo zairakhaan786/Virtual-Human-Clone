@@ -4583,5 +4583,10 @@
     "intent_id": "INT-51440",
     "utterance": "What should I wear to a formal event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-20804",
+    "utterance": "How to style a sneakers for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
