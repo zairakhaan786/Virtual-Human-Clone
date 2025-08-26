@@ -4578,5 +4578,10 @@
     "intent_id": "INT-1302",
     "utterance": "What should I wear to a casual event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-51440",
+    "utterance": "What should I wear to a formal event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
