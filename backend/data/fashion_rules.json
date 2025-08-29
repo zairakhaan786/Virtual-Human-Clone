@@ -10957,5 +10957,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T00:59:55.652007"
+  },
+  {
+    "rule_id": "R-75633",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T00:59:55.698360"
   }
 ]
