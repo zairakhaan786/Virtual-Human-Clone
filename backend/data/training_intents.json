@@ -4588,5 +4588,10 @@
     "intent_id": "INT-20804",
     "utterance": "How to style a sneakers for Spring if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-36082",
+    "utterance": "Is #9B59B6 too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
