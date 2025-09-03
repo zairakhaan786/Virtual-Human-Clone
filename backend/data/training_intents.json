@@ -4598,5 +4598,10 @@
     "intent_id": "INT-22843",
     "utterance": "How to style a chinos for Winter if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-52273",
+    "utterance": "Recommend a streetwear outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
