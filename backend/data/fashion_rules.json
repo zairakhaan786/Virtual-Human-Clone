@@ -11022,5 +11022,18 @@
     },
     "confidence_score": 0.8,
     "timestamp": "2026-03-26T00:59:56.007833"
+  },
+  {
+    "rule_id": "R-68136",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T00:59:56.131533"
   }
 ]
