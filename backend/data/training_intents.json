@@ -4603,5 +4603,10 @@
     "intent_id": "INT-52273",
     "utterance": "Recommend a streetwear outfit matching a silk blouse.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39185",
+    "utterance": "What should I wear to a avant-garde event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
