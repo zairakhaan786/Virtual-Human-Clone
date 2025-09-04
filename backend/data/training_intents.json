@@ -4608,5 +4608,10 @@
     "intent_id": "INT-39185",
     "utterance": "What should I wear to a avant-garde event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-22846",
+    "utterance": "Is #3498DB too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
