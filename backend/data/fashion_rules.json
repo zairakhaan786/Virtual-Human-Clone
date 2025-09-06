@@ -11035,5 +11035,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T00:59:56.131533"
+  },
+  {
+    "rule_id": "R-81509",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T00:59:56.215129"
   }
 ]
