@@ -11074,5 +11074,18 @@
     },
     "confidence_score": 0.88,
     "timestamp": "2026-03-26T00:59:56.305849"
+  },
+  {
+    "rule_id": "R-1389",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:56.350241"
   }
 ]
