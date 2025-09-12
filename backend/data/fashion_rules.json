@@ -11100,5 +11100,18 @@
     },
     "confidence_score": 0.67,
     "timestamp": "2026-03-26T00:59:56.435430"
+  },
+  {
+    "rule_id": "R-55808",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.73,
+    "timestamp": "2026-03-26T00:59:56.479050"
   }
 ]
