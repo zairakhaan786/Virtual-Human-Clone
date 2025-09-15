@@ -4628,5 +4628,10 @@
     "intent_id": "INT-43045",
     "utterance": "How to style a blazer for Summer if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13420",
+    "utterance": "What should I wear to a minimalist event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
