@@ -11152,5 +11152,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T00:59:56.808126"
+  },
+  {
+    "rule_id": "R-80104",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.88,
+    "timestamp": "2026-03-26T00:59:56.852712"
   }
 ]
