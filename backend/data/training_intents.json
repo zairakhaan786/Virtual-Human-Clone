@@ -4643,5 +4643,10 @@
     "intent_id": "INT-53798",
     "utterance": "I have an apple body type, do #8E44AD denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-32758",
+    "utterance": "Is #8E44AD too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
