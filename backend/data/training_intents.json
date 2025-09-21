@@ -4648,5 +4648,10 @@
     "intent_id": "INT-32758",
     "utterance": "Is #8E44AD too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-38326",
+    "utterance": "Recommend a formal outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
