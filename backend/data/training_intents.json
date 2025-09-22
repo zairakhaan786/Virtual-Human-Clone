@@ -4653,5 +4653,10 @@
     "intent_id": "INT-38326",
     "utterance": "Recommend a formal outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-62967",
+    "utterance": "What should I wear to a avant-garde event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
