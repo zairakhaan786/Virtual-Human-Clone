@@ -4668,5 +4668,10 @@
     "intent_id": "INT-16750",
     "utterance": "How to style a oxford shoes for Winter if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47530",
+    "utterance": "Is #FF5733 too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
