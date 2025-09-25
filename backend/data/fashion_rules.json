@@ -11230,5 +11230,18 @@
     },
     "confidence_score": 0.8,
     "timestamp": "2026-03-26T00:59:57.312506"
+  },
+  {
+    "rule_id": "R-55204",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:59:57.356831"
   }
 ]
