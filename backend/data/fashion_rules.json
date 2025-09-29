@@ -11321,5 +11321,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T00:59:57.782440"
+  },
+  {
+    "rule_id": "R-62487",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T00:59:57.826345"
   }
 ]
