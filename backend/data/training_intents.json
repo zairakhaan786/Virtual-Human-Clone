@@ -4703,5 +4703,10 @@
     "intent_id": "INT-61740",
     "utterance": "Recommend a avant-garde outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-99416",
+    "utterance": "Recommend a avant-garde outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
