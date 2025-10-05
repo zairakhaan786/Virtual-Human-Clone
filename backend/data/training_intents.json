@@ -4713,5 +4713,10 @@
     "intent_id": "INT-71766",
     "utterance": "I have an apple body type, do #E74C3C trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87945",
+    "utterance": "Is #1ABC9C too bold for a formal setting?",
+    "category": "fashion_advice"
   }
 ]
