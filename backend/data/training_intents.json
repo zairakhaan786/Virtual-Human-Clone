@@ -4733,5 +4733,10 @@
     "intent_id": "INT-80810",
     "utterance": "What should I wear to a athleisure event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-48258",
+    "utterance": "What should I wear to a minimalist event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
