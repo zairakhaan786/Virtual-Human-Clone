@@ -4738,5 +4738,10 @@
     "intent_id": "INT-48258",
     "utterance": "What should I wear to a minimalist event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-74352",
+    "utterance": "Is #8E44AD too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
