@@ -4758,5 +4758,10 @@
     "intent_id": "INT-37344",
     "utterance": "I have an hourglass body type, do #2C3E50 silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67420",
+    "utterance": "How to style a chinos for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
