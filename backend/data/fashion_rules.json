@@ -11425,5 +11425,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T00:59:58.747928"
+  },
+  {
+    "rule_id": "R-48880",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T00:59:58.792718"
   }
 ]
