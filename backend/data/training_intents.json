@@ -4783,5 +4783,10 @@
     "intent_id": "INT-15380",
     "utterance": "Recommend a minimalist outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-65544",
+    "utterance": "Recommend a vintage outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
