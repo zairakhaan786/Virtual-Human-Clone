@@ -11516,5 +11516,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T00:59:59.301147"
+  },
+  {
+    "rule_id": "R-65540",
+    "condition": {
+      "body_type": "pear",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T00:59:59.344948"
   }
 ]
