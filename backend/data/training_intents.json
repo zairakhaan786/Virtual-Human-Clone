@@ -4788,5 +4788,10 @@
     "intent_id": "INT-65544",
     "utterance": "Recommend a vintage outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40046",
+    "utterance": "I have an apple body type, do #33FF57 blazers suit me?",
+    "category": "fashion_advice"
   }
 ]
