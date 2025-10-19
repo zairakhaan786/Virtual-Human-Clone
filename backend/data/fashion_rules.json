@@ -11503,5 +11503,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T00:59:59.256453"
+  },
+  {
+    "rule_id": "R-71165",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.91,
+    "timestamp": "2026-03-26T00:59:59.301147"
   }
 ]
