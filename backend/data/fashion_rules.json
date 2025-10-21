@@ -11542,5 +11542,18 @@
     },
     "confidence_score": 0.77,
     "timestamp": "2026-03-26T00:59:59.390341"
+  },
+  {
+    "rule_id": "R-51631",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.71,
+    "timestamp": "2026-03-26T00:59:59.516890"
   }
 ]
