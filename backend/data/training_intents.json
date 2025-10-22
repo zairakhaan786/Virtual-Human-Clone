@@ -4803,5 +4803,10 @@
     "intent_id": "INT-79021",
     "utterance": "I have an endomorph body type, do #3498DB denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-29879",
+    "utterance": "What should I wear to a avant-garde event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
