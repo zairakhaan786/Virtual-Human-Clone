@@ -4798,5 +4798,10 @@
     "intent_id": "INT-63130",
     "utterance": "What should I wear to a athleisure event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-79021",
+    "utterance": "I have an endomorph body type, do #3498DB denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
