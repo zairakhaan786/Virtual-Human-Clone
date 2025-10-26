@@ -11594,5 +11594,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T00:59:59.733428"
+  },
+  {
+    "rule_id": "R-28996",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T00:59:59.820459"
   }
 ]
