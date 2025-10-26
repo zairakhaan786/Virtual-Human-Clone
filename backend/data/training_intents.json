@@ -4818,5 +4818,10 @@
     "intent_id": "INT-45768",
     "utterance": "Recommend a vintage outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26819",
+    "utterance": "Recommend a casual outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
