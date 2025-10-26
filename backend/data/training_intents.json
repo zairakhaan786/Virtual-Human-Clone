@@ -4813,5 +4813,10 @@
     "intent_id": "INT-7065",
     "utterance": "Is #3498DB too bold for a business setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-45768",
+    "utterance": "Recommend a vintage outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
