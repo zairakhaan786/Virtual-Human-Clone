@@ -4828,5 +4828,10 @@
     "intent_id": "INT-76890",
     "utterance": "Is #3357FF too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-39023",
+    "utterance": "Recommend a business outfit matching a silk blouse.",
+    "category": "fashion_advice"
   }
 ]
