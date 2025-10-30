@@ -4843,5 +4843,10 @@
     "intent_id": "INT-34856",
     "utterance": "I have an inverted_triangle body type, do #E74C3C silk blouses suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-86969",
+    "utterance": "Is #8E44AD too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
