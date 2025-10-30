@@ -4838,5 +4838,10 @@
     "intent_id": "INT-2494",
     "utterance": "How to style a pleated skirt for Spring if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-34856",
+    "utterance": "I have an inverted_triangle body type, do #E74C3C silk blouses suit me?",
+    "category": "fashion_advice"
   }
 ]
