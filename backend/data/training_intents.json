@@ -4848,5 +4848,10 @@
     "intent_id": "INT-86969",
     "utterance": "Is #8E44AD too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-32121",
+    "utterance": "Recommend a casual outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
