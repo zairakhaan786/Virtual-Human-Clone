@@ -4858,5 +4858,10 @@
     "intent_id": "INT-13903",
     "utterance": "How to style a blazer for Autumn if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-78403",
+    "utterance": "Recommend a formal outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
