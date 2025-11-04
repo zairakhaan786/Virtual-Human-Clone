@@ -11659,5 +11659,18 @@
     },
     "confidence_score": 0.82,
     "timestamp": "2026-03-26T01:00:00.544859"
+  },
+  {
+    "rule_id": "R-75358",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.94,
+    "timestamp": "2026-03-26T01:00:00.589658"
   }
 ]
