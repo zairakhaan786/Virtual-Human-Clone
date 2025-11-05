@@ -4878,5 +4878,10 @@
     "intent_id": "INT-14956",
     "utterance": "Is #3498DB too bold for a athleisure setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-81318",
+    "utterance": "Recommend a streetwear outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
