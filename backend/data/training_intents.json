@@ -4893,5 +4893,10 @@
     "intent_id": "INT-47740",
     "utterance": "What should I wear to a formal event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-94492",
+    "utterance": "How to style a denim jacket for Winter if I am apple?",
+    "category": "fashion_advice"
   }
 ]
