@@ -4883,5 +4883,10 @@
     "intent_id": "INT-81318",
     "utterance": "Recommend a streetwear outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-44270",
+    "utterance": "How to style a trench coat for Spring if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
