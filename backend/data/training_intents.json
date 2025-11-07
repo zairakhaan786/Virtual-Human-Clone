@@ -4908,5 +4908,10 @@
     "intent_id": "INT-17915",
     "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-77709",
+    "utterance": "Recommend a minimalist outfit matching a blazer.",
+    "category": "fashion_advice"
   }
 ]
