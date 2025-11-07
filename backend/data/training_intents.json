@@ -4898,5 +4898,10 @@
     "intent_id": "INT-94492",
     "utterance": "How to style a denim jacket for Winter if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70424",
+    "utterance": "What should I wear to a athleisure event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
