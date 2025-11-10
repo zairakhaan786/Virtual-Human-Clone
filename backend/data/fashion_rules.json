@@ -11685,5 +11685,18 @@
     },
     "confidence_score": 0.65,
     "timestamp": "2026-03-26T01:00:00.923749"
+  },
+  {
+    "rule_id": "R-9174",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T01:00:01.049405"
   }
 ]
