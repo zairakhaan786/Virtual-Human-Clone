@@ -11724,5 +11724,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T01:00:01.138870"
+  },
+  {
+    "rule_id": "R-77762",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T01:00:01.182836"
   }
 ]
