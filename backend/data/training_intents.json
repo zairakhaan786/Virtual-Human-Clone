@@ -4923,5 +4923,10 @@
     "intent_id": "INT-44351",
     "utterance": "What should I wear to a business event in the Spring?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-90488",
+    "utterance": "I have an mesomorph body type, do #FF5733 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
