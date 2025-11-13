@@ -11763,5 +11763,18 @@
     },
     "confidence_score": 0.65,
     "timestamp": "2026-03-26T01:00:01.277850"
+  },
+  {
+    "rule_id": "R-40672",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.94,
+    "timestamp": "2026-03-26T01:00:01.380755"
   }
 ]
