@@ -11776,5 +11776,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T01:00:01.380755"
+  },
+  {
+    "rule_id": "R-93368",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.93,
+    "timestamp": "2026-03-26T01:00:01.464460"
   }
 ]
