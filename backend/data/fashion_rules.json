@@ -11789,5 +11789,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T01:00:01.464460"
+  },
+  {
+    "rule_id": "R-61772",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.84,
+    "timestamp": "2026-03-26T01:00:01.509142"
   }
 ]
