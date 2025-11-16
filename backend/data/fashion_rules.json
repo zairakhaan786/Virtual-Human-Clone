@@ -11802,5 +11802,18 @@
     },
     "confidence_score": 0.84,
     "timestamp": "2026-03-26T01:00:01.509142"
+  },
+  {
+    "rule_id": "R-8029",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.69,
+    "timestamp": "2026-03-26T01:00:01.553745"
   }
 ]
