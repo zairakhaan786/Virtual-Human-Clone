@@ -4933,5 +4933,10 @@
     "intent_id": "INT-19683",
     "utterance": "Recommend a avant-garde outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-78540",
+    "utterance": "Recommend a casual outfit matching a cardigan.",
+    "category": "fashion_advice"
   }
 ]
