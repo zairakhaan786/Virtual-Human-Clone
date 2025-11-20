@@ -4953,5 +4953,10 @@
     "intent_id": "INT-89317",
     "utterance": "Recommend a casual outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-69352",
+    "utterance": "Recommend a minimalist outfit matching a chinos.",
+    "category": "fashion_advice"
   }
 ]
