@@ -11841,5 +11841,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T01:00:01.842797"
+  },
+  {
+    "rule_id": "R-1794",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.82,
+    "timestamp": "2026-03-26T01:00:01.889192"
   }
 ]
