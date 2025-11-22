@@ -4958,5 +4958,10 @@
     "intent_id": "INT-69352",
     "utterance": "Recommend a minimalist outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-18128",
+    "utterance": "How to style a pleated skirt for Winter if I am inverted_triangle?",
+    "category": "fashion_advice"
   }
 ]
