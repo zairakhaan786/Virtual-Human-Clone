@@ -4963,5 +4963,10 @@
     "intent_id": "INT-18128",
     "utterance": "How to style a pleated skirt for Winter if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40717",
+    "utterance": "I have an mesomorph body type, do #9B59B6 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
