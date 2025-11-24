@@ -11867,5 +11867,18 @@
     },
     "confidence_score": 0.71,
     "timestamp": "2026-03-26T01:00:02.054577"
+  },
+  {
+    "rule_id": "R-83788",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T01:00:02.098575"
   }
 ]
