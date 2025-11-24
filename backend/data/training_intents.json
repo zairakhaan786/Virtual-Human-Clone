@@ -4968,5 +4968,10 @@
     "intent_id": "INT-40717",
     "utterance": "I have an mesomorph body type, do #9B59B6 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-97272",
+    "utterance": "Recommend a business outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
