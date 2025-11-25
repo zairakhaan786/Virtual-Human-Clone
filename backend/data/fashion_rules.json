@@ -11906,5 +11906,18 @@
     },
     "confidence_score": 0.67,
     "timestamp": "2026-03-26T01:00:02.188367"
+  },
+  {
+    "rule_id": "R-53034",
+    "condition": {
+      "body_type": "apple",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T01:00:02.232885"
   }
 ]
