@@ -4973,5 +4973,10 @@
     "intent_id": "INT-97272",
     "utterance": "Recommend a business outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-13291",
+    "utterance": "I have an hourglass body type, do #FF5733 turtlenecks suit me?",
+    "category": "fashion_advice"
   }
 ]
