@@ -4983,5 +4983,10 @@
     "intent_id": "INT-43950",
     "utterance": "Recommend a vintage outfit matching a blazer.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-61498",
+    "utterance": "Is #E74C3C too bold for a minimalist setting?",
+    "category": "fashion_advice"
   }
 ]
