@@ -4988,5 +4988,10 @@
     "intent_id": "INT-61498",
     "utterance": "Is #E74C3C too bold for a minimalist setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-82476",
+    "utterance": "Is #33FF57 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
