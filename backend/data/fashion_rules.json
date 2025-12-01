@@ -11958,5 +11958,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T01:00:02.532253"
+  },
+  {
+    "rule_id": "R-82451",
+    "condition": {
+      "body_type": "apple",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.79,
+    "timestamp": "2026-03-26T01:00:02.578241"
   }
 ]
