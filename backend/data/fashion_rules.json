@@ -11984,5 +11984,18 @@
     },
     "confidence_score": 0.94,
     "timestamp": "2026-03-26T01:00:02.642708"
+  },
+  {
+    "rule_id": "R-13460",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T01:00:02.728164"
   }
 ]
