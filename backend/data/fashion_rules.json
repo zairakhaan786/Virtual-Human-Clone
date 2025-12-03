@@ -11997,5 +11997,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T01:00:02.728164"
+  },
+  {
+    "rule_id": "R-45951",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T01:00:02.774375"
   }
 ]
