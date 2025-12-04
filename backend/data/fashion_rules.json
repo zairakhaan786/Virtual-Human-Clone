@@ -12010,5 +12010,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T01:00:02.774375"
+  },
+  {
+    "rule_id": "R-2564",
+    "condition": {
+      "body_type": "pear",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T01:00:02.939415"
   }
 ]
