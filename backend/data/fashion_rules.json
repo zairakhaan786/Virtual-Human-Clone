@@ -12023,5 +12023,18 @@
     },
     "confidence_score": 0.89,
     "timestamp": "2026-03-26T01:00:02.939415"
+  },
+  {
+    "rule_id": "R-5142",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T01:00:02.984779"
   }
 ]
