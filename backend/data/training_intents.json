@@ -5013,5 +5013,10 @@
     "intent_id": "INT-94534",
     "utterance": "Recommend a avant-garde outfit matching a oxford shoes.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-98610",
+    "utterance": "Is #9B59B6 too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
