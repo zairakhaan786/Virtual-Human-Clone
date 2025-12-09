@@ -12101,5 +12101,18 @@
     },
     "confidence_score": 0.73,
     "timestamp": "2026-03-26T01:00:03.253520"
+  },
+  {
+    "rule_id": "R-3476",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T01:00:03.338041"
   }
 ]
