@@ -12127,5 +12127,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T01:00:03.423410"
+  },
+  {
+    "rule_id": "R-18018",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T01:00:03.507924"
   }
 ]
