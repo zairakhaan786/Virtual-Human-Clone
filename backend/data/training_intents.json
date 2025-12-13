@@ -5028,5 +5028,10 @@
     "intent_id": "INT-38415",
     "utterance": "Recommend a business outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-4604",
+    "utterance": "What should I wear to a business event in the Spring?",
+    "category": "fashion_advice"
   }
 ]
