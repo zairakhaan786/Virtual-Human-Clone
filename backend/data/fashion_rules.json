@@ -12153,5 +12153,18 @@
     },
     "confidence_score": 0.68,
     "timestamp": "2026-03-26T01:00:03.553650"
+  },
+  {
+    "rule_id": "R-39179",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.74,
+    "timestamp": "2026-03-26T01:00:03.599285"
   }
 ]
