@@ -12140,5 +12140,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T01:00:03.507924"
+  },
+  {
+    "rule_id": "R-49231",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.68,
+    "timestamp": "2026-03-26T01:00:03.553650"
   }
 ]
