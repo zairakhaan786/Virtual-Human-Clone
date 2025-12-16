@@ -12179,5 +12179,18 @@
     },
     "confidence_score": 0.79,
     "timestamp": "2026-03-26T01:00:03.682826"
+  },
+  {
+    "rule_id": "R-16553",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T01:00:03.727077"
   }
 ]
