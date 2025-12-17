@@ -5038,5 +5038,10 @@
     "intent_id": "INT-3084",
     "utterance": "Recommend a formal outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-43813",
+    "utterance": "How to style a chinos for Spring if I am apple?",
+    "category": "fashion_advice"
   }
 ]
