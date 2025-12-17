@@ -5043,5 +5043,10 @@
     "intent_id": "INT-43813",
     "utterance": "How to style a chinos for Spring if I am apple?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-61952",
+    "utterance": "Is #8E44AD too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
