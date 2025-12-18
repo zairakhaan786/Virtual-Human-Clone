@@ -5048,5 +5048,10 @@
     "intent_id": "INT-61952",
     "utterance": "Is #8E44AD too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-40584",
+    "utterance": "What should I wear to a vintage event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
