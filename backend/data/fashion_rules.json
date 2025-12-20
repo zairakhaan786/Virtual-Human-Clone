@@ -12257,5 +12257,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T01:00:04.074460"
+  },
+  {
+    "rule_id": "R-46677",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T01:00:04.120460"
   }
 ]
