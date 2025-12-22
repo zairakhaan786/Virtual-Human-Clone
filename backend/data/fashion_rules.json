@@ -12283,5 +12283,18 @@
     },
     "confidence_score": 0.72,
     "timestamp": "2026-03-26T01:00:04.165533"
+  },
+  {
+    "rule_id": "R-90972",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T01:00:04.210526"
   }
 ]
