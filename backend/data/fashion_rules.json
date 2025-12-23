@@ -12296,5 +12296,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T01:00:04.210526"
+  },
+  {
+    "rule_id": "R-80249",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.97,
+    "timestamp": "2026-03-26T01:00:04.293426"
   }
 ]
