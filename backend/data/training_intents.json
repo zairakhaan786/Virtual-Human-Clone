@@ -5053,5 +5053,10 @@
     "intent_id": "INT-40584",
     "utterance": "What should I wear to a vintage event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26495",
+    "utterance": "I have an apple body type, do #2C3E50 pleated skirts suit me?",
+    "category": "fashion_advice"
   }
 ]
