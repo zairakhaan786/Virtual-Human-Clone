@@ -12309,5 +12309,18 @@
     },
     "confidence_score": 0.97,
     "timestamp": "2026-03-26T01:00:04.293426"
+  },
+  {
+    "rule_id": "R-22396",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T01:00:04.338769"
   }
 ]
