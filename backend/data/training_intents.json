@@ -5073,5 +5073,10 @@
     "intent_id": "INT-42947",
     "utterance": "Recommend a streetwear outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-70169",
+    "utterance": "How to style a sneakers for Summer if I am apple?",
+    "category": "fashion_advice"
   }
 ]
