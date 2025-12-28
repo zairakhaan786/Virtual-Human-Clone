@@ -5063,5 +5063,10 @@
     "intent_id": "INT-98854",
     "utterance": "What should I wear to a avant-garde event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-64279",
+    "utterance": "Recommend a avant-garde outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
