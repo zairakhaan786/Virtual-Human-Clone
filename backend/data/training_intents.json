@@ -5068,5 +5068,10 @@
     "intent_id": "INT-64279",
     "utterance": "Recommend a avant-garde outfit matching a pleated skirt.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42947",
+    "utterance": "Recommend a streetwear outfit matching a pleated skirt.",
+    "category": "fashion_advice"
   }
 ]
