@@ -5093,5 +5093,10 @@
     "intent_id": "INT-69957",
     "utterance": "How to style a blazer for Winter if I am ectomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83172",
+    "utterance": "Recommend a business outfit matching a sneakers.",
+    "category": "fashion_advice"
   }
 ]
