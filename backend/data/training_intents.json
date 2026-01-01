@@ -5098,5 +5098,10 @@
     "intent_id": "INT-83172",
     "utterance": "Recommend a business outfit matching a sneakers.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-2566",
+    "utterance": "I have an endomorph body type, do #3498DB denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
