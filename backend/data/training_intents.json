@@ -5113,5 +5113,10 @@
     "intent_id": "INT-74523",
     "utterance": "Is #E67E22 too bold for a vintage setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-85408",
+    "utterance": "I have an endomorph body type, do #2ECC71 chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
