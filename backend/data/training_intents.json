@@ -5108,5 +5108,10 @@
     "intent_id": "INT-45938",
     "utterance": "What should I wear to a vintage event in the Spring?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-74523",
+    "utterance": "Is #E67E22 too bold for a vintage setting?",
+    "category": "fashion_advice"
   }
 ]
