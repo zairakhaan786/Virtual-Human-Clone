@@ -12452,5 +12452,18 @@
     },
     "confidence_score": 0.95,
     "timestamp": "2026-03-26T01:00:05.429404"
+  },
+  {
+    "rule_id": "R-61001",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.67,
+    "timestamp": "2026-03-26T01:00:05.474850"
   }
 ]
