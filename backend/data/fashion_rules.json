@@ -12439,5 +12439,18 @@
     },
     "confidence_score": 0.69,
     "timestamp": "2026-03-26T01:00:05.383332"
+  },
+  {
+    "rule_id": "R-41790",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T01:00:05.429404"
   }
 ]
