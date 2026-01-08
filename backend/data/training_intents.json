@@ -5118,5 +5118,10 @@
     "intent_id": "INT-85408",
     "utterance": "I have an endomorph body type, do #2ECC71 chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-88898",
+    "utterance": "How to style a silk blouse for Spring if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
