@@ -12465,5 +12465,18 @@
     },
     "confidence_score": 0.67,
     "timestamp": "2026-03-26T01:00:05.474850"
+  },
+  {
+    "rule_id": "R-29781",
+    "condition": {
+      "body_type": "pear",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.92,
+    "timestamp": "2026-03-26T01:00:05.559248"
   }
 ]
