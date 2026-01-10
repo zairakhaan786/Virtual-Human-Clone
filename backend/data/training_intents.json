@@ -5128,5 +5128,10 @@
     "intent_id": "INT-20283",
     "utterance": "What should I wear to a casual event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-88246",
+    "utterance": "I have an hourglass body type, do #E74C3C sneakerss suit me?",
+    "category": "fashion_advice"
   }
 ]
