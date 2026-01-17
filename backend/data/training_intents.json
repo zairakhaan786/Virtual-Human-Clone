@@ -5168,5 +5168,10 @@
     "intent_id": "INT-97658",
     "utterance": "How to style a denim jacket for Summer if I am inverted_triangle?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47960",
+    "utterance": "I have an endomorph body type, do #9B59B6 oxford shoess suit me?",
+    "category": "fashion_advice"
   }
 ]
