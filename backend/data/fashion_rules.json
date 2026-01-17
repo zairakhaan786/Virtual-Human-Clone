@@ -12556,5 +12556,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T01:00:06.271630"
+  },
+  {
+    "rule_id": "R-87724",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T01:00:06.434187"
   }
 ]
