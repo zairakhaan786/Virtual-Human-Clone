@@ -12569,5 +12569,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T01:00:06.434187"
+  },
+  {
+    "rule_id": "R-71584",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.98,
+    "timestamp": "2026-03-26T01:00:06.481115"
   }
 ]
