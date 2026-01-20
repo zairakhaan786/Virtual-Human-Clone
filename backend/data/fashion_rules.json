@@ -12582,5 +12582,18 @@
     },
     "confidence_score": 0.98,
     "timestamp": "2026-03-26T01:00:06.481115"
+  },
+  {
+    "rule_id": "R-61259",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T01:00:06.528482"
   }
 ]
