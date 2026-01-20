@@ -5173,5 +5173,10 @@
     "intent_id": "INT-47960",
     "utterance": "I have an endomorph body type, do #9B59B6 oxford shoess suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-82219",
+    "utterance": "I have an mesomorph body type, do #3498DB chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
