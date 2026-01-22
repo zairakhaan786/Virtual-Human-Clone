@@ -12608,5 +12608,18 @@
     },
     "confidence_score": 0.76,
     "timestamp": "2026-03-26T01:00:06.696638"
+  },
+  {
+    "rule_id": "R-65504",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.83,
+    "timestamp": "2026-03-26T01:00:06.745307"
   }
 ]
