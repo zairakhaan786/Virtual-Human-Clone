@@ -12634,5 +12634,18 @@
     },
     "confidence_score": 0.78,
     "timestamp": "2026-03-26T01:00:06.837345"
+  },
+  {
+    "rule_id": "R-21639",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Silk Blouse"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T01:00:06.928416"
   }
 ]
