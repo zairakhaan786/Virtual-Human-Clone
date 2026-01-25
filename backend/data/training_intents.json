@@ -5193,5 +5193,10 @@
     "intent_id": "INT-59573",
     "utterance": "How to style a chinos for Winter if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-10270",
+    "utterance": "What should I wear to a formal event in the Summer?",
+    "category": "fashion_advice"
   }
 ]
