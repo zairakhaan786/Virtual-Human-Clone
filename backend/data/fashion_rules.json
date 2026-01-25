@@ -12621,5 +12621,18 @@
     },
     "confidence_score": 0.83,
     "timestamp": "2026-03-26T01:00:06.745307"
+  },
+  {
+    "rule_id": "R-3253",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.78,
+    "timestamp": "2026-03-26T01:00:06.837345"
   }
 ]
