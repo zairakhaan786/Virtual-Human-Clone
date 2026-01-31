@@ -12660,5 +12660,18 @@
     },
     "confidence_score": 0.93,
     "timestamp": "2026-03-26T01:00:07.018279"
+  },
+  {
+    "rule_id": "R-84910",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Blazer"
+    },
+    "confidence_score": 0.9,
+    "timestamp": "2026-03-26T01:00:07.153924"
   }
 ]
