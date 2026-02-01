@@ -5213,5 +5213,10 @@
     "intent_id": "INT-68639",
     "utterance": "Is #9B59B6 too bold for a streetwear setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-83996",
+    "utterance": "What should I wear to a athleisure event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
