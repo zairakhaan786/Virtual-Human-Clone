@@ -12673,5 +12673,18 @@
     },
     "confidence_score": 0.9,
     "timestamp": "2026-03-26T01:00:07.153924"
+  },
+  {
+    "rule_id": "R-98677",
+    "condition": {
+      "body_type": "apple",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.8,
+    "timestamp": "2026-03-26T01:00:07.244348"
   }
 ]
