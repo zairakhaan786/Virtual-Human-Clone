@@ -5228,5 +5228,10 @@
     "intent_id": "INT-59141",
     "utterance": "How to style a oxford shoes for Summer if I am pear?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-61909",
+    "utterance": "How to style a trench coat for Summer if I am endomorph?",
+    "category": "fashion_advice"
   }
 ]
