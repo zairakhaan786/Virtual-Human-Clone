@@ -12803,5 +12803,18 @@
     },
     "confidence_score": 0.91,
     "timestamp": "2026-03-26T01:00:07.707289"
+  },
+  {
+    "rule_id": "R-90032",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.85,
+    "timestamp": "2026-03-26T01:00:07.796156"
   }
 ]
