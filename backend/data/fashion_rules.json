@@ -12816,5 +12816,18 @@
     },
     "confidence_score": 0.85,
     "timestamp": "2026-03-26T01:00:07.796156"
+  },
+  {
+    "rule_id": "R-1826",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "minimalist",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.83,
+    "timestamp": "2026-03-26T01:00:07.931652"
   }
 ]
