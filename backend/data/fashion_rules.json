@@ -12855,5 +12855,18 @@
     },
     "confidence_score": 0.77,
     "timestamp": "2026-03-26T01:00:08.024577"
+  },
+  {
+    "rule_id": "R-96443",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Autumn"
+    },
+    "recommendation": {
+      "category": "athleisure",
+      "key_item": "Sneakers"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T01:00:08.120378"
   }
 ]
