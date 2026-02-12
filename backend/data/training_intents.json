@@ -5243,5 +5243,10 @@
     "intent_id": "INT-72761",
     "utterance": "Is #2C3E50 too bold for a formal setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-56306",
+    "utterance": "I have an inverted_triangle body type, do #2C3E50 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
