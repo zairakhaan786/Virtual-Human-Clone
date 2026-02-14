@@ -5248,5 +5248,10 @@
     "intent_id": "INT-56306",
     "utterance": "I have an inverted_triangle body type, do #2C3E50 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-8905",
+    "utterance": "What should I wear to a formal event in the Autumn?",
+    "category": "fashion_advice"
   }
 ]
