@@ -5253,5 +5253,10 @@
     "intent_id": "INT-8905",
     "utterance": "What should I wear to a formal event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-87582",
+    "utterance": "What should I wear to a minimalist event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
