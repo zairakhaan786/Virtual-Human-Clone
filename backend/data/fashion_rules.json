@@ -12972,5 +12972,18 @@
     },
     "confidence_score": 0.86,
     "timestamp": "2026-03-26T01:00:08.835533"
+  },
+  {
+    "rule_id": "R-44385",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "business",
+      "key_item": "Pleated Skirt"
+    },
+    "confidence_score": 0.95,
+    "timestamp": "2026-03-26T01:00:08.881176"
   }
 ]
