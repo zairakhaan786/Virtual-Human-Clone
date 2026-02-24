@@ -5278,5 +5278,10 @@
     "intent_id": "INT-29080",
     "utterance": "How to style a chinos for Winter if I am hourglass?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-35839",
+    "utterance": "Recommend a streetwear outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
