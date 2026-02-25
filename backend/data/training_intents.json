@@ -5283,5 +5283,10 @@
     "intent_id": "INT-35839",
     "utterance": "Recommend a streetwear outfit matching a trench coat.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-24255",
+    "utterance": "Is #1ABC9C too bold for a streetwear setting?",
+    "category": "fashion_advice"
   }
 ]
