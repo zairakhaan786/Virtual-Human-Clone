@@ -5293,5 +5293,10 @@
     "intent_id": "INT-9778",
     "utterance": "Recommend a avant-garde outfit matching a chinos.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-2316",
+    "utterance": "Recommend a casual outfit matching a turtleneck.",
+    "category": "fashion_advice"
   }
 ]
