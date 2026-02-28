@@ -5308,5 +5308,10 @@
     "intent_id": "INT-31955",
     "utterance": "How to style a cardigan for Spring if I am endomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-84366",
+    "utterance": "Is #33FF57 too bold for a athleisure setting?",
+    "category": "fashion_advice"
   }
 ]
