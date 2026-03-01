@@ -5323,5 +5323,10 @@
     "intent_id": "INT-94420",
     "utterance": "What should I wear to a business event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-5113",
+    "utterance": "What should I wear to a avant-garde event in the Winter?",
+    "category": "fashion_advice"
   }
 ]
