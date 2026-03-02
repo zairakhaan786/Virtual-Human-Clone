@@ -5328,5 +5328,10 @@
     "intent_id": "INT-5113",
     "utterance": "What should I wear to a avant-garde event in the Winter?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71562",
+    "utterance": "I have an pear body type, do #8E44AD denim jackets suit me?",
+    "category": "fashion_advice"
   }
 ]
