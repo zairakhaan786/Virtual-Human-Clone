@@ -13024,5 +13024,18 @@
     },
     "confidence_score": 0.96,
     "timestamp": "2026-03-26T01:00:09.408568"
+  },
+  {
+    "rule_id": "R-7250",
+    "condition": {
+      "body_type": "endomorph",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "avant-garde",
+      "key_item": "Cardigan"
+    },
+    "confidence_score": 0.75,
+    "timestamp": "2026-03-26T01:00:09.543061"
   }
 ]
