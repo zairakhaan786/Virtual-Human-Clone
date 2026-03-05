@@ -13037,5 +13037,18 @@
     },
     "confidence_score": 0.75,
     "timestamp": "2026-03-26T01:00:09.543061"
+  },
+  {
+    "rule_id": "R-28709",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "streetwear",
+      "key_item": "Chinos"
+    },
+    "confidence_score": 0.81,
+    "timestamp": "2026-03-26T01:00:09.588518"
   }
 ]
