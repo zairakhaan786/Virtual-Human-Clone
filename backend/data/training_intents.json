@@ -5333,5 +5333,10 @@
     "intent_id": "INT-71562",
     "utterance": "I have an pear body type, do #8E44AD denim jackets suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-63698",
+    "utterance": "Is #3357FF too bold for a avant-garde setting?",
+    "category": "fashion_advice"
   }
 ]
