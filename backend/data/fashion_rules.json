@@ -13050,5 +13050,18 @@
     },
     "confidence_score": 0.81,
     "timestamp": "2026-03-26T01:00:09.588518"
+  },
+  {
+    "rule_id": "R-58911",
+    "condition": {
+      "body_type": "ectomorph",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Trench Coat"
+    },
+    "confidence_score": 0.66,
+    "timestamp": "2026-03-26T01:00:09.634299"
   }
 ]
