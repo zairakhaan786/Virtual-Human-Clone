@@ -5338,5 +5338,10 @@
     "intent_id": "INT-63698",
     "utterance": "Is #3357FF too bold for a avant-garde setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-47858",
+    "utterance": "How to style a blazer for Autumn if I am ectomorph?",
+    "category": "fashion_advice"
   }
 ]
