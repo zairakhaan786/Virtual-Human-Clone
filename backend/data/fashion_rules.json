@@ -13063,5 +13063,18 @@
     },
     "confidence_score": 0.66,
     "timestamp": "2026-03-26T01:00:09.634299"
+  },
+  {
+    "rule_id": "R-71148",
+    "condition": {
+      "body_type": "inverted_triangle",
+      "season": "Spring"
+    },
+    "recommendation": {
+      "category": "formal",
+      "key_item": "Turtleneck"
+    },
+    "confidence_score": 0.72,
+    "timestamp": "2026-03-26T01:00:09.800899"
   }
 ]
