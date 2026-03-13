@@ -5363,5 +5363,10 @@
     "intent_id": "INT-11892",
     "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-11262",
+    "utterance": "I have an hourglass body type, do #E74C3C chinoss suit me?",
+    "category": "fashion_advice"
   }
 ]
