@@ -5358,5 +5358,10 @@
     "intent_id": "INT-73202",
     "utterance": "Recommend a vintage outfit matching a turtleneck.",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-11892",
+    "utterance": "Recommend a avant-garde outfit matching a denim jacket.",
+    "category": "fashion_advice"
   }
 ]
