@@ -5368,5 +5368,10 @@
     "intent_id": "INT-11262",
     "utterance": "I have an hourglass body type, do #E74C3C chinoss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-33813",
+    "utterance": "I have an endomorph body type, do #F1C40F trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
