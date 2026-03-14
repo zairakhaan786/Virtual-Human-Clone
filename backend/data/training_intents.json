@@ -5373,5 +5373,10 @@
     "intent_id": "INT-33813",
     "utterance": "I have an endomorph body type, do #F1C40F trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-67558",
+    "utterance": "How to style a chinos for Summer if I am ectomorph?",
+    "category": "fashion_advice"
   }
 ]
