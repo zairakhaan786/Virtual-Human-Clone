@@ -5383,5 +5383,10 @@
     "intent_id": "INT-56956",
     "utterance": "What should I wear to a avant-garde event in the Summer?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-26937",
+    "utterance": "Recommend a vintage outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
