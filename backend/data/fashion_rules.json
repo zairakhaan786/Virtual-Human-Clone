@@ -13154,5 +13154,18 @@
     },
     "confidence_score": 0.7,
     "timestamp": "2026-03-26T01:00:10.422868"
+  },
+  {
+    "rule_id": "R-65452",
+    "condition": {
+      "body_type": "hourglass",
+      "season": "Summer"
+    },
+    "recommendation": {
+      "category": "casual",
+      "key_item": "Denim Jacket"
+    },
+    "confidence_score": 0.96,
+    "timestamp": "2026-03-26T01:00:10.555338"
   }
 ]
