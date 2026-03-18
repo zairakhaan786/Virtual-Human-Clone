@@ -5403,5 +5403,10 @@
     "intent_id": "INT-84189",
     "utterance": "I have an ectomorph body type, do #E74C3C sneakerss suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-66537",
+    "utterance": "Recommend a avant-garde outfit matching a trench coat.",
+    "category": "fashion_advice"
   }
 ]
