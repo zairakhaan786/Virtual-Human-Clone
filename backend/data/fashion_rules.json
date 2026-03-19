@@ -13193,5 +13193,18 @@
     },
     "confidence_score": 0.86,
     "timestamp": "2026-03-26T01:00:10.690180"
+  },
+  {
+    "rule_id": "R-2540",
+    "condition": {
+      "body_type": "mesomorph",
+      "season": "Winter"
+    },
+    "recommendation": {
+      "category": "vintage",
+      "key_item": "Oxford Shoes"
+    },
+    "confidence_score": 0.89,
+    "timestamp": "2026-03-26T01:00:10.859432"
   }
 ]
