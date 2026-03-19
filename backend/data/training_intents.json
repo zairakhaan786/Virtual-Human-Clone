@@ -5418,5 +5418,10 @@
     "intent_id": "INT-66415",
     "utterance": "What should I wear to a casual event in the Autumn?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-71269",
+    "utterance": "Is #9B59B6 too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
