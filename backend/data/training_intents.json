@@ -5423,5 +5423,10 @@
     "intent_id": "INT-71269",
     "utterance": "Is #9B59B6 too bold for a casual setting?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-42732",
+    "utterance": "I have an apple body type, do #33FF57 trench coats suit me?",
+    "category": "fashion_advice"
   }
 ]
