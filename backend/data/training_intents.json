@@ -5433,5 +5433,10 @@
     "intent_id": "INT-25543",
     "utterance": "How to style a sneakers for Winter if I am mesomorph?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-2537",
+    "utterance": "Is #1ABC9C too bold for a casual setting?",
+    "category": "fashion_advice"
   }
 ]
