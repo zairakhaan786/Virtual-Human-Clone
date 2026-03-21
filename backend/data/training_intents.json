@@ -5428,5 +5428,10 @@
     "intent_id": "INT-42732",
     "utterance": "I have an apple body type, do #33FF57 trench coats suit me?",
     "category": "fashion_advice"
+  },
+  {
+    "intent_id": "INT-25543",
+    "utterance": "How to style a sneakers for Winter if I am mesomorph?",
+    "category": "fashion_advice"
   }
 ]
