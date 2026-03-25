@@ -196,3 +196,62 @@ Includes:
 ## ⭐ Final Thought  
 
 This project is not just an application — it is a step toward the future of **AI-driven personalized shopping**.
+
+---
+
+## 🏗️ System Architecture
+
+### Complete Project Structure (Phase 1 & Phase 2)
+```text
+virtual-human-clone/
+│
+├── frontend/                     # Web Interface (React.js)
+├── mobile-app/                   # Mobile App (Flutter)
+├── api-gateway/                  # Central Backend API (FastAPI)
+├── ai-engines/                   # AI Models
+│   ├── body-scan-engine/         # MediaPipe & TensorFlow
+│   ├── fashion-recommender/      # CF + CB + Deep Learning
+│   └── affordability-predictor/  # Random Forest / XGBoost
+├── ar-virtual-tryon/             # AR 3D Overlay Engine
+├── analytics/                    # Retail Intelligence Dashboard
+├── database/                     # MongoDB + Redis Storage
+├── hardware-iot/                 # AI Smart Mirror integration
+├── security/                     # Fraud Detection
+├── deployment/                   # Docker & Cloud config
+├── tests/                        # Comprehensive Testing Suite
+└── docs/                         # Architecture & features
+```
+
+### High-Level AI Data Flow
+```text
+  ┌──────────────┐    ┌──────────────┐    ┌──────────────────────┐
+  │   Frontend   │    │   Mobile App │    │  AI Smart Mirror     │
+  │  (React.js)  │    │  (Flutter)   │    │  (Hardware/IoT)      │
+  └──────┬───────┘    └──────┬───────┘    └──────────┬───────────┘
+         │                   │                        │
+         └───────────────────┴────────────────────────┘
+                             │
+                    ┌────────▼────────┐
+                    │   API Gateway   │
+                    │   (FastAPI)     │
+                    └────────┬────────┘
+                             │
+        ┌────────────────────┼────────────────────────┐
+        │                    │                        │
+   ┌────▼────────┐   ┌──────▼──────┐   ┌────────────▼──────────┐
+   │ Body Scan   │   │  Fashion    │   │  Affordability        │
+   │ AI Engine   │   │  Recommender│   │  Prediction Model     │
+   │(MediaPipe + │   │(CF + CB + DL│   │  (RF + XGB + LR)      │
+   │ TensorFlow) │   │  Ensemble)  │   │                       │
+   └─────────────┘   └─────────────┘   └───────────────────────┘
+                                                                       
+   ┌─────────────────┐   ┌───────────┐   ┌──────────────────────┐
+   │ Virtual Try-On  │   │ Behavior  │   │ Retail Intelligence  │
+   │ (AR/3D Overlay) │   │ Analysis  │   │ Dashboard            │
+   └─────────────────┘   └───────────┘   └──────────────────────┘
+                                                                       
+                    ┌────────────────────┐
+                    │  MongoDB Database  │
+                    │  + Redis Cache     │
+                    └────────────────────┘
+```
