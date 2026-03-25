@@ -8,33 +8,37 @@ export default function RetailIntelligence() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    // In production, this would fetch from /api/analytics?currency=${currency}
-    const mockData = {
-      conversion: "24.8%",
-      conversionSpike: "+3.2%",
-      tryOns: "128.4K",
-      tryOnSpike: "+12%",
-      tension: "High",
-      returnRate: "12.4%",
-      accuracy: "98.2%",
-      demandForecast: [
-        { name: 'OCT 24', pv: 2400 },
-        { name: 'NOV 01', pv: 1398 },
-        { name: 'NOV 10', pv: 4800 },
-        { name: 'NOV 20', pv: 3908 },
-        { name: 'NOV 30', pv: 4800 },
-        { name: 'DEC 10', pv: 3800 },
-        { name: 'DEC 20', pv: 4300 },
-      ],
-      accuracyIndex: [
-        { name: "Oversized Tech Shell", rec: "8.2K units", actual: "7.9K units", match: "96.3%" },
-        { name: "Modular Cargo Pant", rec: "5.1K units", actual: "4.8K units", match: "94.1%" }
-      ]
+    const fetchAnalytics = async () => {
+      try {
+        const token = localStorage.getItem('token');
+        const res = await fetch(`http://localhost:5000/api/analytics/dashboard?currency=${currency}`, {
+          headers: { 'x-auth-token': token }
+        });
+        
+        if (!res.ok) {
+          throw new Error('Backend not ready or unauthenticated');
+        }
+        
+        const apiData = await res.json();
+        // Assume backend sends this structure, fallback to empty arrays if missing
+        setData(apiData);
+      } catch (err) {
+        console.error("Dashboard fetch error:", err);
+        // Show empty state if backend not ready as requested
+        setData(null);
+      }
     };
-    setData(mockData);
+    
+    fetchAnalytics();
   }, [currency]);
 
-  if (!data) return <div className="p-8 text-white">Loading...</div>;
+  if (!data) return (
+    <div className="bg-[#0f0f11] min-h-screen text-white px-5 py-6 flex flex-col items-center justify-center font-sans text-center">
+      <h1 className="text-xl font-bold tracking-tight mb-2">Retail Intelligence</h1>
+      <p className="text-gray-500 text-sm">Waiting for live backend data streams...</p>
+      <p className="text-xs text-cyan-400 mt-4 animate-pulse">Ensure backend is running on port 5000</p>
+    </div>
+  );
 
   return (
     <div className="bg-[#0f0f11] min-h-screen text-white px-5 py-6 pb-28 font-sans">

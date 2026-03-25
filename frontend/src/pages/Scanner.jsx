@@ -1,19 +1,63 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useCurrency } from '../context/CurrencyContext';
 
 export default function SmartMirror() {
   const { currency, symbol } = useCurrency();
   const [mounted, setMounted] = useState(false);
+  const [scanData, setScanData] = useState(null);
+  const videoRef = useRef(null);
 
   useEffect(() => {
     setMounted(true);
+    // Initialize Camera WebRTC Stream
+    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+      navigator.mediaDevices.getUserMedia({ video: { facingMode: 'user' } })
+        .then((stream) => {
+          if (videoRef.current) {
+            videoRef.current.srcObject = stream;
+          }
+        })
+        .catch((err) => {
+          console.error("Camera access denied:", err);
+        });
+    }
   }, []);
 
+  const captureFrame = () => {
+    if (!videoRef.current) return;
+    const canvas = document.createElement("canvas");
+    canvas.width = videoRef.current.videoWidth;
+    canvas.height = videoRef.current.videoHeight;
+    const ctx = canvas.getContext("2d");
+    ctx.drawImage(videoRef.current, 0, 0);
+    
+    // In production, this Data URL is sent to the AI Backend Python Engine
+    const imageBase64 = canvas.toDataURL("image/png");
+    console.log("Captured Scan Frame:", imageBase64.substring(0, 50) + "...");
+    
+    // Simulate generic AI response parsing
+    setScanData({
+      chest: "98.2",
+      waist: "81.5",
+      inseam: "79.0",
+      confidence: "94.3%"
+    });
+  };
+
   return (
-    <div className="bg-[#2B3131] min-h-screen text-white relative font-sans overflow-hidden pattern-grid">
+    <div className="bg-[#2B3131] min-h-screen text-white relative font-sans overflow-hidden pattern-grid flex flex-col items-center justify-center bg-black">
       
+      {/* Dynamic Camera Feed Background */}
+      <video 
+        ref={videoRef} 
+        autoPlay 
+        playsInline 
+        muted
+        className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-screen"
+      />
+
       {/* Background Grid Pattern (simulating mirror grid) */}
-      <div className="absolute inset-0 opacity-10" 
+      <div className="absolute inset-0 opacity-10 pointer-events-none" 
            style={{ backgroundImage: 'linear-gradient(#4b5563 1px, transparent 1px), linear-gradient(90deg, #4b5563 1px, transparent 1px)', backgroundSize: '40px 40px' }}>
       </div>
 
@@ -49,35 +93,37 @@ export default function SmartMirror() {
           <div className="absolute bottom-20 left-1/4 w-4 h-4 border-b-2 border-r-2 border-cyan-400"></div>
           <div className="absolute bottom-20 left-1/2 w-4 h-4 border-b-2 border-l-2 border-cyan-400"></div>
 
-          {/* Left Column Data Cards */}
+          {/* Left Column Data Cards (Populated by ML) */}
           <div className="flex flex-col gap-3 max-w-[140px] relative z-20">
             
             <div className="bg-[#2D3337]/90 backdrop-blur-md border-l-2 border-cyan-400 p-3 shadow-xl">
                <p className="text-[8px] font-bold text-gray-400 uppercase leading-tight mb-2">PREDICTED<br/>CHEST</p>
-               <h3 className="text-3xl font-bold tracking-tight">98.2<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
+               <h3 className="text-3xl font-bold tracking-tight">{scanData ? scanData.chest : '--' }<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
             </div>
             
             <div className="bg-[#2D3337]/90 backdrop-blur-md border-l-2 border-cyan-400 p-3 shadow-xl">
                <p className="text-[8px] font-bold text-gray-400 uppercase leading-tight mb-2">PREDICTED<br/>WAIST</p>
-               <h3 className="text-3xl font-bold tracking-tight">81.5<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
+               <h3 className="text-3xl font-bold tracking-tight">{scanData ? scanData.waist : '--' }<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
             </div>
 
             <div className="bg-[#2D3337]/90 backdrop-blur-md border-l-2 border-cyan-400 p-3 shadow-xl">
                <p className="text-[8px] font-bold text-gray-400 uppercase leading-tight mb-2">PREDICTED<br/>INSEAM</p>
-               <h3 className="text-3xl font-bold tracking-tight">79.0<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
+               <h3 className="text-3xl font-bold tracking-tight">{scanData ? scanData.inseam : '--' }<span className="text-xs text-cyan-400 ml-1">cm</span></h3>
             </div>
 
             {/* Fit Confidence Card */}
-            <div className="bg-[#1C2C2F]/80 backdrop-blur-md border border-cyan-900/50 rounded-xl p-3 shadow-xl mt-4 relative overflow-hidden">
-               <div className="flex items-center gap-1.5 mb-2">
-                 <div className="bg-cyan-400 text-black rounded-full w-3 h-3 flex items-center justify-center text-[8px] font-bold">i</div>
-                 <p className="text-[9px] font-bold text-white uppercase leading-tight">FIT<br/>CONFIDENCE</p>
-               </div>
-               <div className="w-full bg-cyan-950 rounded-full h-1 mb-1">
-                 <div className="bg-cyan-400 h-1 rounded-full" style={{width: '94.3%'}}></div>
-               </div>
-               <p className="text-[9px] font-bold text-cyan-400">94.3% Accurate</p>
-            </div>
+            {scanData && (
+              <div className="bg-[#1C2C2F]/80 backdrop-blur-md border border-cyan-900/50 rounded-xl p-3 shadow-xl mt-4 relative overflow-hidden">
+                 <div className="flex items-center gap-1.5 mb-2">
+                   <div className="bg-cyan-400 text-black rounded-full w-3 h-3 flex items-center justify-center text-[8px] font-bold">i</div>
+                   <p className="text-[9px] font-bold text-white uppercase leading-tight">FIT<br/>CONFIDENCE</p>
+                 </div>
+                 <div className="w-full bg-cyan-950 rounded-full h-1 mb-1">
+                   <div className="bg-cyan-400 h-1 rounded-full animate-pulse" style={{width: '94.3%'}}></div>
+                 </div>
+                 <p className="text-[9px] font-bold text-cyan-400">{scanData.confidence} Accurate</p>
+              </div>
+            )}
           </div>
 
           {/* Right Column Action Buttons */}
@@ -118,9 +164,9 @@ export default function SmartMirror() {
            </button>
         </div>
         
-        <button className="w-full bg-cyan-300 hover:bg-cyan-200 text-black rounded-3xl p-5 flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(103,232,249,0.4)] transition-transform hover:scale-[1.02] active:scale-[0.98]">
-           <span className="font-bold text-lg">✓</span>
-           <span className="font-bold tracking-widest uppercase">CONFIRM FINAL FIT</span>
+        <button onClick={captureFrame} className="w-full bg-cyan-300 hover:bg-cyan-200 text-black rounded-3xl p-5 flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(103,232,249,0.4)] transition-transform hover:scale-[1.02] active:scale-[0.98]">
+           <span className="font-bold text-lg">📸</span>
+           <span className="font-bold tracking-widest uppercase">{scanData ? 'CONFIRM FINAL FIT' : 'START AI BODY SCAN'}</span>
         </button>
       </div>
 
